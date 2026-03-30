@@ -1,0 +1,1017 @@
+[
+  {
+  "name": "Raul",
+  "rank": "S+",
+  "position": "WS",
+  "height": "192cm",
+  "number": "04",
+  "birthday": "04 de Janeiro",
+  "summary": "Um dos 5 maiores atacantes do mundo. Com força avassaladora, ele domina seus adversários. Seu controle de bola é tão preciso que ele dispara saques como mísseis diretamente na linha lateral. Já quebrou o recorde de transferência mais alta das 5 grandes ligas e conquistou inúmeros prêmios, chamando atenção global. Declarou que seria MVP das cinco ligas e mudou de time para disputar o título com Victor. Porém, após um incidente que gerou grande escândalo e resultou em sua suspensão, agora tenta recomeçar na Phantom League.",
+  "phrase": "Prefiro esmagar do que ser esmagado.",
+  "atributes": {
+    "Attack": "Max / 200",
+    "Defense": "115 / 155",
+    "Velocity": "120 / 145",
+    "Salto": "Max / 160"
+  },
+  "image_main": "img/raul_main.jpeg",
+  "image_status": "img/raul_status.jpeg",
+  "skills": [
+    { 
+      "name": "Spike da Fera", 
+      "desc": "Potência e Efeito da Bola aumentam em proporção à quantidade de Carga do Medidor da Habilidade Pulo Selvagem. Ao realizar um Cortada em direção à Rede com o Medidor no máximo, ele penetra o Bloqueio do Jogador Adversário. No entanto, a penetração só é possível se superar a ATQ do Jogador Adversário que está fazendo o Bloqueio. Ao saltar na direção oposta à Rede e realizar um Cortada com o Medidor no máximo, ganha o Efeito de Perfuração de Slide. No entanto, esse Cortada é parado por um Bloqueio. No Modo Automático, todos os aumentos de velocidade de Ataque são reduzidos em 25%." 
+    },
+    { 
+      "name": "Primeiro Impacto", 
+      "desc": "Quando realizar pela primeira vez um Cortada com Medidor máximo durante o Jogo, o Potência do Bola aumenta em 40% e o Efeito em 60%." 
+    },
+    { 
+      "name": "Noite Sombria", 
+      "desc": "Quanto maior o Placar do Time Adversário em comparação com o Time, mais o Status aumenta proporcionalmente. (Acumula até 10)" 
+    },
+    { 
+      "name": "Pulo Selvagem", 
+      "desc": "Ao mover-se em direção ao Rede, o Medidor é Carga e é possível saltar com aceleração proporcional à quantidade de Carga. Modo Automático: No estado No Ar, o Medidor é Carga automaticamente." 
+    },
+    { 
+      "name": "Presa da Fera", 
+      "desc": "Pode realizar Cortada em um alcance mais amplo que o normal, até aproximadamente 1.2m." 
+    },
+    { 
+      "name": "Arremesso Longo de Saque", 
+      "desc": "Permite realizar o arremesso de Saque mais à frente." 
+    },
+    { 
+      "name": "Qualidade Real", 
+      "desc": "Se não for controlado manualmente, o ATQ do Jogador diminui em 15%. Modo Automático também se aplica." 
+    }
+  ],
+  "combos": [
+    {
+      "name": "Unificação de Ataque e Defesa",
+      "team_images": ["img/sif_main.jpeg", "img/raul_main.jpeg"],
+      "benefits": "A velocidade de carregamento do Raul aumenta em 10%."
+    }
+  ],
+  "ascension_levels": [
+    { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+    { 
+      "level": 1, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +2, VEL +1, Salto +2, DEF +1<br><strong>[Spike da Fera]</strong> (Cortada em todas as direções) Bola Potência +58.07, (Cortada para trás) Bola Potência +44.15, Aumento da velocidade de Carga do Medidor ao mover-se para trás +15%<br><strong>[Noite Sombria]</strong> (Máximo) ATQ +42, (Máximo) VEL +30" 
+    },
+    { 
+      "level": 2, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, VEL +2, Salto +1, DEF +2<br><strong>[Spike da Fera]</strong> (Cortada em todas as direções) Bola Potência +62.25, (Cortada para trás) Bola Potência +47.12, Aumento da velocidade de Carga do Medidor ao mover-se para trás +25%<br><strong>[Noite Sombria]</strong> (Máximo) ATQ +46, (Máximo) VEL +33" 
+    },
+    { 
+      "level": 3, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +2, VEL +2, Salto +1, DEF +2<br><strong>[Spike da Fera]</strong> (Cortada em todas as direções) Bola Potência +64.34, (Cortada para trás) Bola Potência +48.61, Aumento da velocidade de Carga do Medidor ao mover-se para trás +30%<br><strong>[Noite Sombria]</strong> (Máximo) ATQ +46, (Máximo) VEL +33" 
+    },
+    { 
+      "level": 4, 
+      "upgrade_details": "<strong>[Status]</strong> VEL +3, DEF +3<br><strong>[Spike da Fera]</strong> (Cortada em todas as direções) Bola Potência +64.34, (Cortada para trás) Bola Potência +48.61, Aumento da velocidade de Carga do Medidor ao mover-se para trás +30%<br><strong>[Noite Sombria]</strong> (Máximo) ATQ +50, (Máximo) VEL +36" 
+    },
+    { 
+      "level": 5, 
+      "upgrade_details": "<strong>[Status]</strong> VEL +2, DEF +2<br><strong>[Spike da Fera]</strong> (Cortada em todas as direções) Bola Potência +66.43, (Cortada para trás) Bola Potência +50.09, Aumento da velocidade de Carga do Medidor ao mover-se para trás +35%<br><strong>[Noite Sombria]</strong> (Máximo) ATQ +50, (Máximo) VEL +36" 
+    }
+  ]
+  },
+  {
+    "name": "Ryuhyeon",
+  "rank": "S+",
+  "position": "WS",
+  "height": "191cm",
+  "number": "03",
+  "birthday": "3 de outubro",
+  "summary": "Presidente do conselho estudantil do Colégio Seonrim e discípulo de destaque da tradicional arte marcial Seonrim. Entregue ainda criança ao mestre da escola, cresceu como seu pupilo mais promissor. Carrega o desejo de honrar o legado da Seonrim, mas o amor cada vez maior pelo vôlei o coloca em constante conflito. Seu corpo, moldado por anos de treino marcial, lhe permite executar cortadas poderosas de qualquer ângulo. Mesmo após muito tempo afastado das quadras, seus ataques permanecem duros como pedra.",
+  "phrase": "Mesmo abalado, nunca se quebra.",
+  "atributes": {
+    "Attack": "Max / 195",
+    "Defense": "110 / 160",
+    "Velocity": "120 / 160",
+    "Salto": "Max / 170"
+  },
+  "image_main": "img/ryuhyeon_main.jpeg",
+  "image_status": "img/ryuhyeon_status.jpeg",
+  "skills": [
+    { 
+      "name": "Dragão Azul", 
+      "desc": "Enquanto estiver em No Chão, o Medidor será Carga. Em estado No Ar, ao segurar Botão de Spike, consome Medidor para acumular Energia. Quanto mais Energia, maior o Potência e Efeito da Bola. Com Energia máxima, o Cortada ganha Efeito de Perfuração de Slide. Se exceder o limite, a Bola será lançada longe demais." 
+    },
+    { 
+      "name": "Finta Topspin", 
+      "desc": "O Bola realizado com Finta cai mais rápido devido à rotação." 
+    }
+  ],
+  "combos": [
+    {
+      "name": "Parceiro de Seonrim",
+      "team_images": ["img/ryuhyeon_main.jpeg", "img/muyeong_main.jpeg"],
+      "benefits": "Aumenta a velocidade de carregamento de Ryuhyeon em 20%"
+    },
+    {
+      "name": "Flor de Dragão",
+      "team_images": ["img/sohee_main.jpeg", "img/ryuhyeon_main.jpeg"],
+      "benefits": "ATQ +4, Salto +2"
+    }
+  ],
+  "ascension_levels": [
+    { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+    { 
+      "level": 1, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +4, Salto +4<br><strong>[Dragão Azul]</strong> Velocidade de Carga do Medidor +10%" 
+    },
+    { 
+      "level": 2, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +2<br><strong>[Dragão Azul]</strong> Velocidade de Carga do Medidor +20%" 
+    },
+    { 
+      "level": 3, 
+      "upgrade_details": "<strong>[Status]</strong> Salto +1, DEF +5<br><strong>[Dragão Azul]</strong> Velocidade de Carga do Medidor +25%" 
+    },
+    { 
+      "level": 4, 
+      "upgrade_details": "<strong>[Status]</strong> VEL +3, DEF +3<br><strong>[Dragão Azul]</strong> Velocidade de Carga do Medidor +25%" 
+    },
+    { 
+      "level": 5, 
+      "upgrade_details": "<strong>[Status]</strong> VEL +2, DEF +2<br><strong>[Dragão Azul]</strong> Velocidade de Carga do Medidor +25%" 
+    }
+  ]
+  },
+  {
+    "name": "Lucas",
+  "rank": "S+",
+  "position": "WS",
+  "height": "183cm",
+  "number": "24",
+  "birthday": "7 de agosto",
+  "summary": "Lucas é o atacante mais poderoso da Liga Phantom. Seu instinto afiado e seu talento natural garantem que brilhe em qualquer jogo. Narcisista e autocentrado, mas com um senso de responsabilidade como astro que jamais vacila. Pouco antes de sua última partida na Liga Phantom, acabou encontrando o tablet de Sanghyeon. Entre anotações escritas e apagadas inúmeras vezes, uma palavra chamou sua atenção. Ao ler «Oásis» no fim do texto, compreendeu seu significado profundo e decidiu adotá-la como pseudônimo.",
+  "phrase": "Meu palco é onde meus fãs estiverem!",
+  "atributes": {
+    "Attack": "Max / 180",
+    "Defense": "95 / 160",
+    "Velocity": "150 / 160",
+    "Salto": "Max / 170"
+  },
+  "image_main": "img/lucas_main.jpeg",
+  "image_status": "img/lucas_status.jpeg",
+  "skills": [
+    { 
+      "name": "Clarão", 
+      "desc": "Enquanto Habilidade Ativação, todos os Status aumentam. No entanto, dependendo do número de Habilidade Ativação, o Status no estado Desativação diminui. (A redução de Status acumula até 12 vezes) Tempo de Descanso e Substituição de Jogadores redefinem o efeito de redução de Status." 
+    },
+    { 
+      "name": "Hélios", 
+      "desc": "Ao realizar Cortada no estado No Ar, o centro de gravidade do corpo é puxado para a frente, resultando numa queda mais rápida. Quanto maior a velocidade de queda, maior o aumento de Potência do Bola." 
+    },
+    {
+      "name": "Coração valente",
+      "desc": "Altera o estado Desanimado para o estado Engajado."
+    },
+    {
+      "name": "Arremesso Longo de Saque",
+      "desc": "A velocidade mínima de Levantamento aumenta, permitindo realizar um Arremesso de Saque mais longo."
+    },
+    {
+      "name": "Sunspot Burst",
+      "desc": "Ao realizar Cortada, há uma certa probabilidade de ativar Sunspot Burst; nesse momento, o Potência do Bola aumenta em 13% e o Efeito aumenta em 1."
+    }
+  ],
+  "combos": [
+    {
+      "name": "Glória do Passado",
+      "team_images": ["img/lucas_main.jpeg", "img/athis_main.jpeg"],
+      "benefits": "Aumenta a velocidade após Athis deslizar e levantar-se"
+    },
+    {
+      "name": "Eclipse",
+      "team_images": ["img/zero_main.jpeg", "img/lucas_main.jpeg"],
+      "benefits": "ATQ +3, Salto +2"
+    }
+  ],
+  "ascension_levels": [
+    { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+    { 
+      "level": 1, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +1, DEF +5<br><strong>[Sunspot Burst]</strong> Probabilidade de Habilidade Ativação 20%<br><strong>[Hélios]</strong> (Máximo) Bola Potência +43.1%<br><strong>[Clarão]</strong> Tempo de Espera : 6sec, Duração : 6sec" 
+    },
+    { 
+      "level": 2, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Salto +1, DEF +5<br><strong>[Sunspot Burst]</strong> Probabilidade de Habilidade Ativação 25%<br><strong>[Hélios]</strong> (Máximo) Bola Potência +45.1%<br><strong>[Clarão]</strong> Tempo de Espera : 5sec, Duração : 6sec" 
+    },
+    { 
+      "level": 3, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +1<br><strong>[Sunspot Burst]</strong> Probabilidade de Habilidade Ativação 25%<br><strong>[Hélios]</strong> (Máximo) Bola Potência +47.2%<br><strong>[Clarão]</strong> Tempo de Espera : 5sec, Duração : 7sec" 
+    },
+    { 
+      "level": 4, 
+      "upgrade_details": "<strong>[Status]</strong> VEL +3, Salto +1, DEF +2<br><strong>[Sunspot Burst]</strong> Probabilidade de Habilidade Ativação 30%<br><strong>[Hélios]</strong> (Máximo) Bola Potência +47.2%<br><strong>[Clarão]</strong> Tempo de Espera : 4sec, Duração : 7sec" 
+    },
+    { 
+      "level": 5, 
+      "upgrade_details": "<strong>[Status]</strong> VEL +2, Salto +1, DEF +3<br><strong>[Sunspot Burst]</strong> Probabilidade de Habilidade Ativação 35%<br><strong>[Hélios]</strong> (Máximo) Bola Potência +47.2%<br><strong>[Clarão]</strong> Tempo de Espera : 4sec, Duração : 8sec" 
+    }
+  ]
+  },
+  {
+    "name": "Youngsup",
+  "rank": "S",
+  "position": "WS",
+  "height": "169cm",
+  "number": "15",
+  "birthday": "5 de Maio",
+  "summary": "Apesar de sua estatura baixa, a estrela da escola superou a desvantagem com saltos explosivos e uma força impressionante, conquistando o posto de melhor atacante do time. É o verdadeiro pilar da equipe, sempre atento e cuidadoso com todos à sua volta, mostrando-se um líder exemplar. Seu jeito de falar é seco e direto, o que pode soar intimidador à primeira vista, mas no fundo é gentil e acolhedor, especialmente com os mais novos.",
+  "phrase": "O impossível é apenas a desculpa de quem não se esforça",
+  "atributes": {
+    "Attack": "Max / 185",
+    "Defense": "100 / 160",
+    "Velocity": "130 / 180",
+    "Salto": "Max / 170"
+  },
+  "image_main": "img/youngsup_main.jpeg",
+  "image_status": "img/youngsup_status.jpeg",
+  "skills": [
+    { 
+      "name": "Ataque Traseiro Poderoso", 
+      "desc": "Ao realizar Cortada por trás da Linha de Ataque, a Potência do Bola aumenta em 5.5." 
+    },
+    { 
+      "name": "Brilho Discreto", 
+      "desc": "Mesmo sem nenhuma habilidade especial, ele é o melhor Ponteiro do ensino médio, capaz de dominar a Quadra com uma capacidade física impressionante." 
+    }
+  ],
+  "combos": [
+    {
+      "name": "Pequeno, mas Poderoso",
+      "team_images": ["img/youngsup_main.jpeg", "img/liscia.main.jpeg"],
+      "benefits": "ATQ +7, Salto +4"
+    },
+    {
+      "name": "All-Star",
+      "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/Seolhwa_main.jpeg"],
+      "benefits": "ATQ +4, Salto +4"
+    },
+    {
+        "name": "Força Estável",
+        "team_images": ["img/youngsup_main.jpeg", "img/sohee_main.jpeg"],
+        "benefits": "ATQ +4, Salto +2"
+    }
+  ],
+  "ascension_levels": [
+    { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+    { 
+      "level": 1, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Salto +1" 
+    },
+    { 
+      "level": 2, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +1, DEF +1" 
+    },
+    { 
+      "level": 3, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +2, DEF +2" 
+    },
+    { 
+      "level": 4, 
+      "upgrade_details": "<strong>[Status]</strong>ATQ +1, Salto +2" 
+    },
+    { 
+      "level": 5, 
+      "upgrade_details": "<strong>[Status]</strong> VEL +2, Salto +2, DEF +2" 
+    }
+  ]
+  },
+  {
+    "name": "Jaehyun",
+  "rank": "S",
+  "position": "WS",
+  "height": "193cm",
+  "number": "10",
+  "birthday": "31 de Dezembro",
+  "summary": "Jaehyun Nam atua como ponta do Colégio Céu, sendo considerado rival de Siwoo Baek e um dos atacantes mais fortes do cenário escolar, ao lado de Youngsup Lee. Sua principal  marca é a resistência extraordinária, aliada a uma força de vontade inabalável, sustentada por um corpo treinado ao limite. Dentro de quadra, não para um instante sequer, deixando qualquer adversário exausto em pouco tempo. Ao contrário de muitos, não nasceu com talento natural para o vôlei. Com pouca coordenação, precisou memorizar cada movimento e treinar sem descanso para alcançar o nível dos demais. Até mesmo seu treinador mais próximo chegou a sugerir que desistisse. Mas Jaehyun persistiu, treinou muito mais que todos os outros, superou cada obstáculo e conquistou o lugar que tem hoje. E, mesmo agora, continua se dedicando todos os dias, perseguindo o mesmo objetivo: tornar-se o número um.",
+  "phrase": "Ad astra per aspera (O caminho até as estrelas está cheio de obstáculos)",
+  "atributes": {
+    "Attack": "Max / 150",
+    "Defense": "100 / 150",
+    "Velocity": "Max / 150",
+    "Salto": "Max / 150"
+  },
+  "image_main": "jaehyun_main.jpeg",
+  "image_status": "jaehyun_status.jpeg",
+  "skills": [
+    { 
+      "name": "Determinação",
+      "desc": "Quando a Resistência do Time estiver em ou abaixo de 30%, ATQ e Salto aumentam."
+    },
+    { 
+      "name": "Ataque Traseiro Poderoso", 
+      "desc": "Ao realizar Cortada por trás da Linha de Ataque, a Potência do Bola aumenta em 5.5." 
+    }
+  ],
+  "combos": [
+  ],
+  "ascension_levels": [
+    { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+    { 
+      "level": 1, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +1, Salto +1, DEF +1<br><strong>[Determinação]</strong> ATQ +35%, Salto +10.2%" 
+    },
+    { 
+      "level": 2, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +1, Salto +1, DEF +1<br><strong>[Determinação]</strong> ATQ +47.9%, Salto +15.3%" 
+    },
+    { 
+      "level": 3, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +1, Salto +1, DEF +1<br><strong>[Determinação]</strong> ATQ +47.9%, Salto +15.3%" 
+    },
+    { 
+      "level": 4, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +1, Salto +1, DEF +1<br><strong>[Determinação]</strong> ATQ +47.9%, Salto +15.3%" 
+    },
+    { 
+      "level": 5, 
+      "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +1, Salto +1, DEF +1<br><strong>[Determinação]</strong> ATQ +62%, Salto +20.7%" 
+    }
+  ]
+  },
+  {
+    "name": "Leon",
+    "rank": "S-",
+    "position": "WS",
+    "height": "196cm",
+    "number": "03",
+    "birthday": "17 de Março",
+    "summary": "Capitão do Leão Verde, é conhecido pelo jeito durão e pelas palavras afiadas, que muitas vezes causam má impressão à primeira vista. Sempre em busca de força, não esconde o desprezo pelos fracos. Ainda assim, diante de Isabel e Roberto, seu comportamento muda completamente, revelando um lado surpreendentemente dócil. Curiosamente, quando reconhecem seu talento, ele fica sem jeito.",
+    "phrase": "O ferro só se fortalece ao ser martelado",
+    "atributes": {
+        "Attack": "Max / 155",
+        "Defense": "115 / 155",
+        "Velocity": "150 / 155",
+        "Salto": "Max / 155"
+        },
+    "image_main": "img/leon_main.jpeg",
+    "image_status": "img/leon_status.jpeg",
+    "skills": [
+        {
+            "name": "Orgulho",
+            "desc": "Se a Bola for Cortada a uma distância de cerca de 6m ou mais da Rede, sua Potência Horizontal aumenta proporcionalmente à distância. ao realizar uma Cortada a uma distância de 7.5m ou mais da Rede, ganha o Efeito de Perfuração de Slide. Por outro lado, se a distância for cerca de 3m ou menos, a Potência Horizontal da Bola é reduzida proporcionalmente à distância. Se a distância for cerca de 1.5m ou menos, a Potência Horizontal da Bola é reduzida."
+        }
+    ],
+    "combos": [
+        {
+            "name": "Coliseu Selvagem",
+            "team_images": ["img/leon_main.jpeg", "img/viola_main.jpeg"],
+            "benefits": "Vel +5, Salto +4"
+        }
+    ],
+    "ascension_levels": [
+        { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+        { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +5, Salto +4, DEF +3" },
+        { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +3, DEF +2" },
+        { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +5, Salto +1" },
+        { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +1" },
+        { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +5, Salto +1, DEF +5" }
+    ]
+  },
+  {
+    "name": "Oásis",
+    "rank": "S",
+    "position": "WS",
+    "height": "183cm",
+    "number": "24",
+    "birthday": "7 de agosto",
+    "summary": "Reconhecido como o maior jogador de vôlei de praia do mundo, hoje está aposentado e dedica sua experiência a treinar novos talentos no Clube de Vôlei Sol. Conhecido apenas pelo apelido «Oásis», guarda em segredo todo o seu passado antes da carreira profissional. Sempre que alguém pergunta sobre isso, responde apenas com um sorriso enigmático.",
+    "phrase": "Onde houver sonhos, lá será o meu lar!",
+    "atributes": {
+        "Attack": "Max / 155",
+        "Defense": "130 / 155",
+        "Velocity": "145 / 155",
+        "Salto": "Max / 155"
+    },
+    "image_main": "img/oasis_main.jpeg",
+    "image_status": "img/oasis_status.jpeg",
+    "skills": [
+        {
+            "name": "Nascer do sol",
+            "desc": "Até o meio-dia, a cada 3 pontos obtidos por Time Adversário, ATQ, VEL e Salto aumentam. Status aumenta apenas até atingir 15 pontos."
+        },
+        {
+            "name": "Pôr do sol",
+            "desc": "Do Pôr do sol (21 pontos), ATQ fica fixado em 75, VEL em 80 e Salto em 56.36"
+        },
+        {
+            "name":"Meio-dia",
+            "desc": "Do Meio-dia (15 pontos) até Pôr do sol, ATQ fica fixado em 262.5, VEL em 175 e Salto em 198.18"
+        },
+        {
+            "name":"Finta Estratégica",
+            "desc": "Quando a Resistência do Time Adversário estiver em ou abaixo de 20, executa uma Finta com chance de 66.7%"
+        }
+    ],
+    "combos": [
+        {
+            "name": "Sob o Sol Escaldante",
+            "team_images":["img/oasis_main.jpeg", "img/hanla_main.jpeg"],
+            "benefits": "A pontuação de ativação do Oásis Meio-dia foi alterado para 9"
+        },
+        {
+            "name":"Surfe de Ondas",
+            "team_images":["img/liscia.main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
+            "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
+        }
+    ],
+    "ascension_levels": [
+        { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+        { "level": 1, "upgrade_details": "<strong>[Nascer do Sol]</strong> (Máximo) ATQ +88, (Máximo) Vel +21, (Máximo) Salto +38" },
+        { "level": 2, "upgrade_details": "<strong>[Nascer do Sol]</strong> (Máximo) ATQ +92, (Máximo) Vel +22, (Máximo) Salto +40" },
+        { "level": 3, "upgrade_details": "<strong>[Nascer do Sol]</strong> (Máximo) ATQ +96, (Máximo) Vel +23, (Máximo) Salto +42" },
+        { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +2<br><strong>[Nascer do Sol]</strong> (Máximo) ATQ +96, (Máximo) Vel +23, (Máximo) Salto +42" },
+        { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +3<br><strong>[Nascer do Sol]</strong> (Máximo) ATQ +98, (Máximo) Vel +23, (Máximo) Salto +42" }
+    ]
+  },
+  {
+    "name":"Isabel",
+    "rank":"S",
+    "position":"WS",
+    "height":"173cm",
+    "number":"01",
+    "birthday":"04 de Fevereiro",
+    "summary":"A Rainha do Coliseu viajou pelo mundo em busca dos atacantes mais desafiadores até se juntar à Liga do Coliseu, onde hoje é uma das mais temidas. Falam que ela gosta de alguém que consegue sacar de um jeito que nem ela consegue devolver. Com grande habilidade na defesa, ela adora contra-atacar logo depois de receber um ataque, sentindo a adrenalina de anular o adversário e marcar o ponto em seguida.",
+    "phrase":"A beleza do deserto vem do oásis que ele esconde.",
+    "atributes": {
+        "Attack":"Max / 130",
+        "Defense":"Max / 200",
+        "Velocity":"125 / 155",
+        "Salto": "Max / 130"
+        },
+    "image_main":"img/isabel_main.jpeg",
+    "image_status":"img/isabel_status.jpeg",
+    "skills": [
+        {
+            "name":"Aparar",
+            "desc":"Quando Jogador Adversário Cortada a Bola e ela é Recepção, carrega o Medidor proporcional ao Potência da Bola. Quanto maior Medidor estiver Carga, mais aumentam ATQ e Salto. Após Cortada, o Medidor Carga desaparece."
+        },
+        {
+            "name":"Estratégia de Saque A",
+            "desc":"Realiza uma sequência específica antes do Saque."
+        },
+        {
+            "name":"Bênção",
+            "desc":"Quando Recepção pela primeira vez a Bola vinda da Quadra do Time Adversário, recupere 20 de Resistência para o Time."
+        }
+    ],
+    "combos": [
+        {
+            "name":"Double Queen",
+            "team_images":["img/isabel_main.jpeg", "img/hari_main.jpeg"],
+            "benefits": "Aumenta o HP máximo dos aliados em 10"
+        },
+        {
+            "name":"Alma Espartana",
+            "team_images":["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
+            "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
+        }
+    ],
+    "ascension_levels": [
+        { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+        { "level": 1, "upgrade_details": "<strong>[Aparar]</strong> Valor máximo de Medidor 110" },
+        { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +5, Vel +2, DEF +10<br><strong>[Aparar]</strong> Valor máximo de Medidor 120" },
+        { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +5, DEF +10<br><strong>[Aparar]</strong> Valor máximo de Medidor 130" },
+        { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +2, DEF +5<br><strong>[Aparar]</strong> Valor máximo de Medidor 130" },
+        { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +3<br><strong>[Aparar]</strong> Valor máximo de Medidor 130" }
+    ]
+  },
+  {
+    "name":"Nishikawa",
+    "rank":"S+",
+    "position":"WS",
+    "height":"188cm",
+    "number":"25",
+    "birthday":"02 de janeiro",
+    "summary":"Um dos 5 melhores atacantes do mundo, é conhecido como <<Nishikawa do Trovão>>, pois dizem que cada ataque seu faz a quadra inteira tremer como se fosse um raio. Seu salto é o mais impressionante entre os 5 grandes atacantes e inspira jovens jogadores a sonharem em seguir seus passos. Também carrega a fama de ser a prova viva do clichê de <<tirar os óculos e ficar mais bonito>>. Normalmente usa óculos de armação grossa, mas sem eles, revela um olhar afiado e intenso. Na infância, era frequentemente mal-interpretado por causa do olhar intimidador, e por isso passou a usar óculos escolhidos por seu mentor, de estilo retrô.",
+    "phrase":"Mesmo que seja só 1%, vou superar o eu de ontem.",
+    "atributes": {
+        "Attack":"Max / 195",
+        "Defense":"100 / 160",
+        "Velocity":"120 / 160",
+        "Salto": "Max / 180"
+        },
+    "image_main":"img/nishikawa_main.jpeg",
+    "image_status":"img/nishikawa_status.jpeg",
+    "skills": [
+        {
+            "name":"Carga",
+            "desc":"Pressione Botão de Spike para ganhar impulso e carregar o Medidor. Pressione Botão de Spike novamente para saltar, e Salto muda conforme Medidor."
+        },
+        {
+          "name":"Cortada Relâmpago",
+          "desc":"Quando Ponto de Contato com a bola atinge 4m ou mais, executa uma Cortada com efeito de trovão e aumento de Potência e Efeito. Neste momento, o Cortada ganha Efeito de Perfuração de Slide."
+        },
+        {
+          "name":"Cortada Dupla",
+          "desc":"Pode realizar Movimento de Braço duas vezes no estado No Ar. Ao executar Cortada com o segundo Movimento de Braço, se Ponto de Contato com a Bola for inferior a 4m, o Potência da Bola aumenta em 15%."
+        },
+        {
+          "name":"3º Toque Elevado",
+          "desc":"No terceiro Toque, se a Bola for enviada sem Ataque, ela será levantada bem alto."
+        },
+        {
+          "name":"Traço Eletrizante",
+          "desc":"Altera a cor da Número de Ralis da Bola durante o Arremesso de Saque."
+        },
+        {
+          "name":"Finta Topspin",
+          "desc":"O Bola realizado com Finta cai mais rápido devido à rotação."
+        },
+        {
+          "name":"Faísca",
+          "desc":"Pode realizar Cortada. Se o Ponto de Contato com a Bola for inferior a 4m, o Potência da Bola aumenta."
+        }
+    ],
+    "combos": [
+        {
+            "name":"",
+            "team_images":[],
+            "benefits": ""
+        }
+    ],
+    "ascension_levels": [
+        { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+        { "level": 1, "upgrade_details": "<strong>[Status]</strong> DEF +10<br><strong>[Faísca]</strong> Potência +0%<br><strong>[Cortada Relâmpago]</strong> Bola Potência +38.3%" },
+        { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +2, DEF +5<br><strong>[Faísca]</strong> Potência +3%<br><strong>[Cortada Relâmpago]</strong> Bola Potência +39.1%" },
+        { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +2, DEF +5<br><strong>[Faísca]</strong> Potência +5%<br><strong>[Cortada Relâmpago]</strong> Bola Potência +40.2%" },
+        { "level": 4, "upgrade_details": "<strong>[Status]</strong> Vel +3, Salto +1, DEF +5<br><strong>[Faísca]</strong> Potência +8%<br><strong>[Cortada Relâmpago]</strong> Bola Potência +40.2%</strong>" },
+        { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +2<br><strong>[Faísca]</strong> Potência +12%<br><strong>[Cortada Relâmpago]</strong> Bola Potência +40.2%</strong>" }
+    ]
+  },
+  {
+    "name": "Yunseok",
+    "rank": "S-",
+    "position": "WS",
+    "height": "178cm",
+    "number": "01",
+    "birthday": "14 de Fevereiro",
+    "summary": "Eu, um dos 5 melhores atacantes do mundo, escondo minha identidade para aproveitar a vida no ensino médio. Mas ultimamente está complicado... as garotas não param de se declarar pra mim. A principal delas é a Dahee Jung, a gerente do time de vôlei. Ela anda deixando bem claro que gosta de mim. Só que ela não entende que um cara incrível como eu só tem olhos pro vôlei. A vida de uma estrela não é nada fácil.",
+    "phrase": "A melhor vingança é viver bem!",
+    "atributes": {
+      "Attack": "Max / 155",
+      "Defense": "115 / 155",
+      "Velocity": "150 / 155",
+      "Salto": "Max / 155"
+    },
+    "image_main": "img/yunseok_main.jpeg",
+    "image_status": "img/yunseok",
+    "skills": [
+      {
+        "name": "Yunseok",
+        "desc": "A probabilidade de Jogador Adversário entrarem no estado Distraído aumenta em 50%"
+      },
+      {
+        "name": "Ataque Traseiro Poderoso",
+        "desc": "Ao realizar Cortada por trás da Linha de Ataque, a Potência do Bola aumenta em 5.5."
+      },
+      {
+        "name": "Finta Afiada",
+        "desc": "O Bola realizado com Finta cai mais rápido devido à rotação."
+      }
+    ],
+    "combos": [
+      {
+        "name": "",
+        "team_images": [],
+        "benefits": ""
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +4, DEF +3<br><strong>[Finta Afiada]</strong> Bola Efeito +75%" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +3, DEF +2<br><strong>[Finta Afiada]</strong> Bola Efeito +102.5%" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +1<br><strong>[Finta Afiada]</strong> Bola Efeito +116.2%" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +1<br><strong>[Finta Afiada]</strong> Bola Efeito +130%" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +5, Salto +1, DEF +5<br><strong>[Finta Afiada]</strong> Bola Efeito +143.8%" }
+    ]
+  },
+  {
+    "name": "Minjun",
+    "rank": "S-",
+    "position": "WS",
+    "height": "192cm",
+    "number": "04",
+    "birthday": "29 de Fevereiro",
+    "summary": "Conhecido como o atacante azarado, em todo jogo decisivo a má sorte aparece e ele nunca consegue mostrar todo o seu potencial. Mas, para ele, o azar é justamente o que dá sabor à vida. Sempre deixa o passado para trás com leveza e logo parte para um novo desafio. Dizem que o time de Minjun Cho nunca deixa a moral cair.",
+    "phrase": "Vamos seguir em frente, não tenho tempo pra olhar para trás.",
+    "atributes": {
+      "Attack": "Max / 145",
+      "Defense": "140 / 155",
+      "Velocity": "130 / 155",
+      "Salto": "Max / 160"
+    },
+    "image_main": "img/minjun_main.jpeg",
+    "image_status": "img/minjun_status.jpeg",
+    "skills": [
+      {
+        "name": "Spin Blitz",
+        "desc": "Aumenta o Potência Vertical e o Efeito da Bola após Cortada, fazendo a Trajetória se curvar."
+      }
+    ],
+    "combos": [
+      {
+        "name": "",
+        "team_images": [],
+        "benefits": ""
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong>ATQ +5, Salto +4, DEF +3 <br><strong>[Spin Blitz]</strong>Potência Vertical +22, Efeito +3.3" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong>ATQ +3, Salto +3, DEF +2 <br><strong>[Spin Blitz]</strong>Potência Vertical +24, Efeito +3.6" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +5, Salto +1<br><strong>[Spin Blitz]</strong>Potência Vertical +26, Efeito +3.9" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong>ATQ +2, Salto +1 <br><strong>[Spin Blitz]</strong>Potência Vertical +28, Efeito +4.2" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong>Vel +5, Salto +1, DEF +5<br><strong>[Spin Blitz]</strong>Potência Vertical +30, Efeito +4.5" }
+    ]
+  },
+  {
+    "name": "Hongshi",
+    "rank": "S",
+    "position": "WS",
+    "height": "166cm",
+    "number": "02",
+    "birthday": "15 de Agosto",
+    "summary": "Ela é uma das maiores lutadoras do Colégio Seonlim e, movida pela curiosidade, sempre arranja desculpas para sair da escola e explorar o mundo. Tem a mesma mentalidade de Ryuhyeon, por isso os dois vivem brigando. Quando está de bom humor, solta um grito cheio de energia junto com o saque. Acredita que esse grito intimida os adversários, mas, na verdade, todos acham fofo e acabam perdendo a concentração.",
+    "phrase": "O mundo é vasto e a aventura não tem fim!",
+    "atributes": {
+      "Attack": "Max / 165",
+      "Defense": "135 / 170",
+      "Velocity": "125 / 170",
+      "Salto": "Max / 160"
+    },
+    "image_main": "img/hongshi_main.jpeg",
+    "image_status": "img/hongshi_status.jpeg",
+    "skills": [
+      {
+        "name": "Tigre Feroz",
+        "desc": "O Jogador Adversário com o menor DEF em Linha de Fundo estiver marcado com Garras de Tigre, ATQ e Salto aumentam."
+      },
+      {
+        "name": "Grrrr",
+        "desc": "No promeiro Saue do Jogo, os Jogador Adversário entram no estado Desanimado com probabilidade muito alta."
+      },
+      {
+        "name": "Garras do Tigre",
+        "desc": "Aplica uma marca ao Jogador Adversário que Defesa um Ataque. O Jogador com marca perde 9 de Salto. Quando a marca acumula, falha no Defesa e a marca é removida. Jogador Adversário que falhar no Defesa tem baixa probabilidade de entrar em Desanimado."
+      },
+      {
+        "name": "Caça",
+        "desc": "O Jogador Adversário com o menor DEF em Linha de Fundo será destacado. (Para visualizar melhor o Jogador Adversário destacado, recomenda-se alterar 'Movimento de Cãmera' para 'Focar Time Adversário' nas Configurações)"
+      }
+    ],
+    "combos": [
+      {
+        "name": "",
+        "team_images": [],
+        "benefits": ""
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong>ATQ +4, Vel +2, Salto +2<br><strong>[Tigre Feroz]</strong>ATQ +12, Salto +2" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +4, Salto +3, DEF +5<br><strong>[Tigre Feroz]</strong>ATQ +12, Salto +2" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +3, Salto +3<br><strong>[Tigre Feroz]</strong>ATQ +15, Salto +4" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +3, DEF +5<br><strong>[Tigre Feroz]</strong>ATQ +15. Salto +4" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +2, Salto +1, DEF +5<br><strong>[Tigre Feroz]</strong>ATQ +18, Salto +4" }
+    ]
+  },
+  {
+    "name": "Dave",
+    "rank": "S",
+    "position": "WS",
+    "height": "198cm",
+    "number": "03",
+    "birthday": "11 de Novembro",
+    "summary": "Ele é o proprietário do chalé onde acontece o Acampamento Rockwell. Já foi jogador de vôlei, mas sua fama vinha principalmente do bigodão estiloso e do físico imponente. Além da força, também se orgulha do cabelo macio e sempre bem cuidado. É um cavalheiro de bom coração, daqueles difíceis de encontrar. Durante o Acampamento Rockwell ajuda de forma voluntária a cuidar das crianças junto com seu irmão, Mike, e sente muito orgulho disso. Às vezes, no entanto, o carinho que demonstra por elas acaba passando um pouco da conta.",
+    "phrase": "Os músculos não mentem!",
+    "atributes": {
+      "Attack": "Max / 160",
+      "Defense": "115 / 160",
+      "Velocity": "150 / 160",
+      "Salto": "Max / 160"
+    },
+    "image_main": "img/dave_main.jpeg",
+    "image_status": "img/dave_status.jpeg",
+    "skills": [
+      {
+        "name": "Aquecimento",
+        "desc": "Se não se mover, executa uma flexão. Quanto mais flexões realizar, mais aumentam Status e Altura. (Acumula até 300 vezes)"
+      },
+      {
+        "name": "Ataque Traseiro Poderoso",
+        "desc": "Ao realizar Cortada por trás da Linha de Ataque, a Potência do Bola aumenta em 5.5."
+      }
+    ],
+    "combos": [
+      {
+        "name": "Primeiro os Mais Velhos, Depois os Mais Novos",
+        "team_images": ["img/dave_main.jpeg", "img/mike_main.jpeg"],
+        "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
+      },
+      {
+        "name": "A Bela e a Fera",
+        "team_images": ["img/dave_main.jpeg", "img/saraSE_main.jpeg"],
+        "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Vel +5, DEF +5<br><strong></strong>" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +2, DEF +5<br><strong></strong>" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Vel +2<br><strong></strong>" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +4, Salto +3, DEF +3<br><strong></strong>" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +2, DEF +2<br><strong></strong>" }
+    ]
+  },
+  {
+    "name": "Jenny",
+    "rank": "S",
+    "position": "WS",
+    "height": "172cm",
+    "number": "13",
+    "birthday": "15 de Maio",
+    "summary": "Ela é a atacante mais jovem da Liga Phantom. Quando criança, fez uma promessa com Sara Seo de se tornar a melhor jogadora de vôlei e, desde então, nunca deixou de correr atrás desse sonho. Ainda pequena, esteve a um passo de desistir por causa de uma grave lesão, mas com suor e lágrimas superou as dificuldades e mostrou a evolução mais brilhante da liga. Seu desempenho varia conforme o humor e a condição do dia, mas quando se entrega de verdade, sua concentração explode e transforma o jogo. Por ter vivido apenas para o vôlei, às vezes demonstra falta de noções básicas do dia a dia. Não é boa em socializar com colegas da mesma idade e pouco entende das tendências atuais. Mesmo assim, não é alguém desinteressada. Apenas não teve chance de experimentar muitas coisas, por isso, observa suas amigas com um olhar curioso e, em segredo, um pouco invejoso.",
+    "phrase": "Mais longe que todos, mais alto que todos!",
+    "atributes": {
+      "Attack": "Max / 150",
+      "Defense": "145/ 160",
+      "Velocity": "145 / 160",
+      "Salto": "Max / 145"
+    },
+    "image_main": "img/jenny_main.jpeg",
+    "image_status": "img/jenny_status.jpeg",
+    "skills": [
+      {
+        "name": "Asas de Ícaro",
+        "desc": "Ao realizar Cortada, alcançar um novo recorde pessoal de Ponto de Contato com a bola aumenta temporiamente o Potência da Bola. ATQ e Salto aumentam com base no seu maior Ponto de Contato com a Bola."
+      },
+      {
+        "name": "Queime o navio",
+        "desc": "Ao realizar Finta no estado No Ar, executa um Cortada vertical em vez disso."
+      },
+      {
+        "name": "Carga",
+        "desc": "Pressiona o Botão de Spike para ganhar impulso e carregar o Medidor. Pressione o Botão de Spike novamente para saltar, e Salto muda conforme Medidor."
+      }
+    ],
+    "combos": [
+      {
+        "name": "Leite de Morango com Chocolate",
+        "team_images": ["img/jenny_main.jpeg", "img/nn_main.jpeg"],
+        "benefits": "Salto +5"
+      },
+      {
+        "name":"Brasa do Abismo",
+        "team_images": ["img/ellio_main.jpeg", "img/jenny_main.jpeg", "img/hari_main.jpeg"],
+        "benefits": "ATQ +4, DEF +10, Vel +2, Salto +5"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel+1, Salto +1, DEF +5<br><strong>[Asas de Ícaro]</strong> Mais Alto Ponto de Contato com a Bola: 4m" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Vel +2, Salto +2, DEF +5<br><strong>[Asas de Ícaro]</strong> Mais Alto Ponto de Contato com a Bola: 4.10m" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +3, DEF +3<br><strong>[Asas de Ícaro]</strong> Mais Alto Ponto de Contato com a Bola: 4.20m" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Vel +3, DEF +3<br><strong>[Asas de Ícaro]</strong> Mais Alto Ponto de Contato com a Bola: 4.30m" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +4<br><strong>[Asas de Ícaro]</strong> Mais Alto Ponto de Contato com a Bola: 4.50m" }
+    ]
+  },
+  {
+    "name": "Sara",
+    "rank": "S+",
+    "position": "WS",
+    "height": "180cm",
+    "number": "02",
+    "birthday": "5 de Janeiro",
+    "summary": "Uma das 5 melhores Spikers do mundo. Tendo escondido seu verdadeiro talento apenas para jogar ao lado de Siwoo, ela finalmente revelou seu potencial autêntico. Embora costume ser gentil, ela é uma garota de 'ferro sob pele de seda' que mostra uma habilidade inigualável assim que a partida começa. Sendo menor de idade, estrou na liga profissional global LOV (League One Volleyball), sediada nas Américas, e liderou seu time à vitória logo na estreia. Após conquistar sucessivos títulos de MVP, ela ascendeu como a última dos 5 Melhores Spikers. O mundo está fervilhando com o nascimento desta nova superestrela.",
+    "phrase": "Não importa o quão forte você bata, não ganhará mais de 2 pontos.",
+    "atributes": {
+      "Attack": "Max / 180",
+      "Defense": "100 / 155",
+      "Velocity": "145 / 195",
+      "Salto": "Max / 175"
+    },
+    "image_main": "img/saraWS_main.jpeg",
+    "image_status": "img/saraWS_status.jpeg",
+    "skills": [
+      {
+        "name": "Tufão",
+        "desc": "Enquanto Habilidade estiver Ativação, a ATQ e o Salto aumentam. Quanto maior a Vel, maior o aumento de ATQ."
+      },
+      {
+        "name": "Rajada",
+        "desc": "Pressione Botão de Spike para mover-se rapidamente para o ponto de impacto da Bola. No momento em que soltar Botão de Spike, você pula rapidamente para o ponto mais alto."
+      },
+      {
+        "name": "Calmaria antes da Tempestade",
+        "desc": "Imediatamente após o pulo de Rajada, o oponente se move mais devagar temporariamente."
+      },
+      {
+        "name": "Vento Cortante",
+        "desc": "Pressione Botão de Spike enquanto estiver no No Ar para pairar brevemente. No momento em que soltar Botão de Spike, você realiza um Movimento de Braço. Ao realizar um Cortada no estado Tufão, um ponto alvo é exibido na quadra adversária. Você fará o Cortada em direção ao último ponto que apareceu no momento em que soltou Botão de Spike."
+      },
+      {
+        "name": "Chicote de Tempestade",
+        "desc": "Permite realizar Cortada em um alcance maior que o normal."
+      }
+    ],
+    "combos": [
+      {
+        "name": "",
+        "team_images": [],
+        "benefits": ""
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +5, Vel +5, Salto +2, DEF +5<br><strong>[Vento Cortante]</strong> (Máximo) Potência da Bola +66<br><strong>[Tufão]</strong> Tempo de Espera: 11sec, Duração: 13sec<br><strong>[Calmaria antes da Tempestade]</strong> Vel da Time Adversário -48%, Duração da Habilidade: 0.65<br><strong>[Rajada]</strong> Tempo de prep. de corrida 0.2, Velocidade de corrida 98.75" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Salto +1, DEF +5<br><strong>[Vento Cortante]</strong> (Máximo) Potência da Bola +68.75<br><strong>[Tufão]</strong> Tempo de Espera: 10sec, Duração: 13sec<br><strong>[Calmaria antes da Tempestade]</strong> Vel da Time Adversário -52%, Duração da Habilidade: 0.68<br><strong>[Rajada]</strong> Tempo de prep. de corrida 0.15, Velocidade de corrida 102.5" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Salto +2, DEF +5<br><strong>[Vento Cortante]</strong> (Máximo) Potência da Bola +71.5<br><strong>[Tufão]</strong> Tempo de Espera: 9sec, Duração: 13sec<br><strong>[Calmaria antes da Tempestade]</strong> Vel da Time Adversário -64%, Duração da Habilidade: 0.78<br><strong>[Rajada]</strong> Tempo de prep. de corrida 0.1, Velocidade de corrida 106.25" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +5, Salto +1, DEF +5<br><strong>[Vento Cortante]</strong> (Máximo) Potência da Bola +74.25<br><strong>[Tufão]</strong> Tempo de Espera: 8sec, Duração: 14sec<br><strong>[Calmaria antes da Tempestade]</strong> Vel da Time Adversário -64%, Duração da Habilidade: 0.78<br><strong>[Rajada]</strong> Tempo de prep. de corrida 0.09, Velocidade de corrida 107" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +1, DEF +5<br><strong>[Vento Cortante]</strong> (Máximo) Potência da Bola +77<br><strong>[Tufão]</strong> Tempo de Espera: 7sec, Duração: 15sec<br><strong>[Calmaria antes da Tempestade]</strong> Vel da Time Adversário -72%, Duração da Habilidade: 0.85<br><strong>[Rajada]</strong> Tempo de prep. de corrida 0.05, Velocidade de corrida 110" }
+    ]
+  },
+  {
+    "name": "Heesung",
+    "rank": "S",
+    "position": "MB",
+    "height": "194cm",
+    "number": "11",
+    "birthday": "30 de Junho",
+    "summary": "Capitão do Colégio Hanbit e considerado o melhor central do cenário escolar. Mesmo no 1º ano, conseguiu bloquear com perfeição o ataque rápido do atleta premiado como «Melhor Jogador>> e, desde então, ficou conhecido como <<<Invencível Heesung». Disciplinado e sincero, sempre cumprimenta os outros com uma reverência de 90°. Fora da quadra é simpático, mas durante as partidas sua determinação feroz intimida qualquer adversário.",
+    "phrase": "Esforço sem fim, humildade sem limites!",
+    "atributes": {
+      "Attack": "Max / 170",
+      "Defense": "120 / 155",
+      "Velocity": "130 / 155",
+      "Salto": "Max / 165"
+    },
+    "image_main": "img/heesung_main.jpeg",
+    "image_status": "img/heesung_status.jpeg",
+    "skills": [
+      {
+        "name": "Defesa Absoluta",
+        "desc": "Enquanto Habilidade estiver Ativação, ativa sempre Bloqueio Mortal contra qualquer Ataque que toque Bloqueio"
+      },
+      {
+        "name": "Ataque Traseiro Poderoso",
+        "desc": "Ao realizar Cortada por trás da Linha de Ataque, a Potência do Bola aumenta em 5.5."
+      },
+      {
+        "name": "Preparação Rápida",
+        "desc": "A velocidade de preparação de Bloqueio aumenta em 70%"
+      },
+      {
+        "name": "Bloqueio Resistente",
+        "desc": "Aumenta a Precisão do tempo de salto Bloqueio dos Jogador não controlados."
+      },
+      {
+        "name": "Recuperação Rápida",
+        "desc": "A quantidade de Resistência recuperada em Marcação de Ponto e Perda de Ponto aumenta em 25%"
+      }
+    ],
+    "combos": [
+      {
+        "name": "All-Star",
+        "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/Seolhwa_main.jpeg"],
+        "benefits": "ATQ +4, Salto +4"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> Vel +2, DEF +2<br><strong>[Defesa Absoluta]</strong> Tempo de Espera: 10sec, Duração: 6sec" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +2<br><strong>[Defesa Absoluta]</strong> Tempo de Espera: 10sec, Duração: 7sec" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> Vel +6, DEF +6<br><strong>[Defesa Absoluta]</strong> Tempo de Espera: 10sec, Duração: 7sec" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +1<br><strong>[Defesa Absoluta]</strong> Tempo de Espera: 10sec, Duração: 7sec" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +3<br><strong>[Defesa Absoluta]</strong> Tempo de Espera: 10sec, Duração: 7sec" }
+    ]
+  },
+  {
+    "name": "Roberto",
+    "rank": "S",
+    "position": "MB",
+    "height": "206cm",
+    "number": "02",
+    "birthday": "2 de Junho",
+    "summary": "Roberto, conhecido como a Muralha de Ferro, tem o corpo coberto de músculos como se usasse uma verdadeira armadura. Sua resistência é impressionante, conseguindo manter o ritmo mesmo após 5 sets. Além da força bruta, se destaca pela leitura de jogo e pelas decisões rápidas, o que torna quase impossível passar por ele. E quando encontra alguém com músculos tão bons quanto os seus, não demora a fazer amizade.",
+    "phrase": "O talento está nos ossos, o esforço está nos músculos.",
+    "atributes": {
+      "Attack": "Max / 180",
+      "Defense": "120 / 165",
+      "Velocity": "120 / 150",
+      "Salto": "Max / 165"
+    },
+    "image_main": "img/roberto_main.jpeg",
+    "image_status": "img/roberto_status.jpeg",
+    "skills": [
+      {
+        "name": "Armadura",
+        "desc": "Carrega o Medidor com base na Precisão de Bloqueio. O Medidor carregado aumenta ATQ, Vel e Salto. Garante Bloqueio Suave mesmo com baixa Precisão de"
+      },
+      {
+        "name": "Ataque Traseiro Poderoso",
+        "desc": "Ao realizar Cortada por trás da Linha de Ataque, a Potência do Bola aumenta em 5.5."
+      },
+      {
+        "name": "Preparação Rápida",
+        "desc": "A velocidade de preparação de Bloqueio aumenta em 70%"
+      },
+      {
+        "name": "Movimento Leve",
+        "desc": "Realiza Ataque Rápido com Corrida de Impulso leve."
+      },
+      {
+        "name": "Bloqueio Resistente",
+        "desc": "Aumenta a Precisão do tempo de salto Bloqueio dos Jogador não controlados."
+      },
+      {
+        "name": "Armadura da equipe",
+        "desc": "Durante o Recepção de Saque, o DEF dos Jogadores do Time aumenta em 20 e o Alcance de Defesa em 40%"
+      }
+    ],
+    "combos": [
+      {
+        "name": "Alma Espartana",
+        "team_images": ["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
+        "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> <br><strong>[Armadura]</strong> Carga máximo de Medidor por Bloqueio 7.7%" },
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> Vel +5, DEF +5<br><strong>[Armadura]</strong> Carga máximo de Medidor por Bloqueio 8%" },
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +3<br><strong>[Armadura]</strong> Carga máximo de Medidor por Bloqueio 8.4%" },
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> Vel +2, DEF +2<br><strong>[Armadura]</strong> Carga máximo de Medidor por Bloqueio 8.8%" },
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +1, DEF +1<br><strong>[Armadura]</strong> Carga máximo de Medidor por Bloqueio 9.1%" }
+    ]
+  },
+  {
+    "name": "Athis",
+    "rank": "S",
+    "position": "MB",
+    "height": "218cm",
+    "number": "13",
+    "birthday": "18 de Fevereiro",
+    "summary": "Técnico das categorias de base da Federação IInternacional de Vôlei de Praia, impõe respeito pela altura e pelo olhar intimidador, mas quem o conhece de verdade sabe que ele tem um coração generoso e muito carinho pelas crianças. Ex-companheiro de Oásis, brilhou ao lado dele como estrela do Clube de Vôlei Sol. Mais tarde, mudou-se para o Palm Spikes, tornando-se rival de Oásis, e isso acabou gerando grandes tensões entre os dois.",
+    "phrase": "Pode haver provações, mas nunca haverá fracasso",
+    "atributes": {
+      "Attack": "Max / 185",
+      "Defense": "125 / 135",
+      "Velocity": "Max / 115",
+      "Salto": "160 / 165"
+    },
+    "image_main": "img/athis_main.jpeg",
+    "image_status": "img/athis_status.jpeg",
+    "skills": [
+      {
+        "name": "Ataque Traseiro Poderoso",
+        "desc": "Ao realizar Cortada por trás da Linha de Ataque, a Potência do Bola aumenta em 5.5."
+      },
+      {
+        "name": "Corrente de Retorno",
+        "desc": "Mesmo que seja lento para levantar-se após Peixinho, possui habilidades físicas superiores."
+      },
+      {
+        "name": "Movimento Leve",
+        "desc": "Realiza Ataque Rápido com Corrida de Impulso leve."
+      },
+      {
+        "name": "Bloqueio Resistente",
+        "desc": "Aumenta a Precisão do tempo de salto Bloqueio dos Jogador não controlados."
+      }
+    ],
+    "combos": [
+      {
+        "name": "Indiferente",
+        "team_images": ["img/athis_main.jpeg", "img/muyeong_main.jpeg"],
+        "benefits": "DEF +10"
+      },
+      {
+        "name": "Glória do Passado",
+        "team_images": ["img/lucas_main.jpeg", "img/athis_main.jpeg"],
+        "benefits": "Aumenta a velocidade após Athis deslizar e levantar-se"
+      },
+      {
+        "name": "Surfe de Ondas",
+        "team_images": ["img/liscia.main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
+        "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> Altura +1m"},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> Altura +2m"},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +1, Altura +1m"},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +1, Altura +1m"},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +1, Altura +2m"}
+    ]
+  }
+]
+  

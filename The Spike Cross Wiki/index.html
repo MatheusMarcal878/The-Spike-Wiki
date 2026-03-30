@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Spike Cross - Wiki Database</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>THE SPIKE CROSS <span>DATABASE</span></h1>
+        
+        <div class="toolbar">
+            <div class="search-box">
+                <input type="text" id="searchBar" placeholder="Pesquise o nome do jogador..." onkeyup="filterPlayers()">
+            </div>
+            
+            <div class="filters-box">
+                <select id="filterPosition" onchange="filterPlayers()">
+                    <option value="ALL">Todas as Posições</option>
+                    <option value="MB">MB (Middle Blocker)</option>
+                    <option value="SE">SE (Setter)</option>
+                    <option value="WS">WS (Wing Spiker)</option>
+                </select>
+
+                <select id="filterRank" onchange="filterPlayers()">
+                    <option value="ALL">Todos os Ranks</option>
+                    <option value="S-">S-</option>
+                    <option value="S">S</option>
+                    <option value="S+">S+</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main id="playerGrid" class="player-grid"></main>
+
+    <div id="imageModal" class="modal-overlay" onclick="closeModal(event)">
+        <img class="modal-content" id="modalImg">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
