@@ -14,8 +14,8 @@
     "Velocity": "120 / 145",
     "Salto": "Max / 160"
   },
-  "image_main": "img/raul_main.jpeg",
-  "image_status": "img/raul_status.jpeg",
+  "image_main": "raul_main.jpeg",
+  "image_status": "raul_status.jpeg",
   "skills": [
     { 
       "name": "Spike da Fera", 
@@ -49,7 +49,7 @@
   "combos": [
     {
       "name": "Unificação de Ataque e Defesa",
-      "team_images": ["img/sif_main.jpeg", "img/raul_main.jpeg"],
+      "team_images": ["sif_main.jpeg", "raul_main.jpeg"],
       "benefits": "A velocidade de carregamento do Raul aumenta em 10%."
     }
   ],
@@ -92,8 +92,8 @@
     "Velocity": "120 / 160",
     "Salto": "Max / 170"
   },
-  "image_main": "img/ryuhyeon_main.jpeg",
-  "image_status": "img/ryuhyeon_status.jpeg",
+  "image_main": "ryuhyeon_main.jpeg",
+  "image_status": "ryuhyeon_status.jpeg",
   "skills": [
     { 
       "name": "Dragão Azul", 
@@ -107,12 +107,12 @@
   "combos": [
     {
       "name": "Parceiro de Seonrim",
-      "team_images": ["img/ryuhyeon_main.jpeg", "img/muyeong_main.jpeg"],
+      "team_images": ["ryuhyeon_main.jpeg", "muyeong_main.jpeg"],
       "benefits": "Aumenta a velocidade de carregamento de Ryuhyeon em 20%"
     },
     {
       "name": "Flor de Dragão",
-      "team_images": ["img/sohee_main.jpeg", "img/ryuhyeon_main.jpeg"],
+      "team_images": ["sohee_main.jpeg", "ryuhyeon_main.jpeg"],
       "benefits": "ATQ +4, Salto +2"
     }
   ],
@@ -155,8 +155,8 @@
     "Velocity": "150 / 160",
     "Salto": "Max / 170"
   },
-  "image_main": "img/lucas_main.jpeg",
-  "image_status": "img/lucas_status.jpeg",
+  "image_main": "lucas_main.jpeg",
+  "image_status": "lucas_status.jpeg",
   "skills": [
     { 
       "name": "Clarão", 
@@ -182,12 +182,12 @@
   "combos": [
     {
       "name": "Glória do Passado",
-      "team_images": ["img/lucas_main.jpeg", "img/athis_main.jpeg"],
+      "team_images": ["lucas_main.jpeg", "athis_main.jpeg"],
       "benefits": "Aumenta a velocidade após Athis deslizar e levantar-se"
     },
     {
       "name": "Eclipse",
-      "team_images": ["img/zero_main.jpeg", "img/lucas_main.jpeg"],
+      "team_images": ["zero_main.jpeg", "lucas_main.jpeg"],
       "benefits": "ATQ +3, Salto +2"
     }
   ],
@@ -230,8 +230,8 @@
     "Velocity": "130 / 180",
     "Salto": "Max / 170"
   },
-  "image_main": "img/youngsup_main.jpeg",
-  "image_status": "img/youngsup_status.jpeg",
+  "image_main": "youngsup_main.jpeg",
+  "image_status": "youngsup_status.jpeg",
   "skills": [
     { 
       "name": "Ataque Traseiro Poderoso", 
@@ -245,17 +245,17 @@
   "combos": [
     {
       "name": "Pequeno, mas Poderoso",
-      "team_images": ["img/youngsup_main.jpeg", "img/liscia.main.jpeg"],
+      "team_images": ["youngsup_main.jpeg", "liscia.main.jpeg"],
       "benefits": "ATQ +7, Salto +4"
     },
     {
       "name": "All-Star",
-      "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/Seolhwa_main.jpeg"],
+      "team_images": ["youngsup_main.jpeg", "heesung_main.jpeg", "Seolhwa_main.jpeg"],
       "benefits": "ATQ +4, Salto +4"
     },
     {
         "name": "Força Estável",
-        "team_images": ["img/youngsup_main.jpeg", "img/sohee_main.jpeg"],
+        "team_images": ["youngsup_main.jpeg", "sohee_main.jpeg"],
         "benefits": "ATQ +4, Salto +2"
     }
   ],
@@ -351,8 +351,8 @@
         "Velocity": "150 / 155",
         "Salto": "Max / 155"
         },
-    "image_main": "img/leon_main.jpeg",
-    "image_status": "img/leon_status.jpeg",
+    "image_main": "leon_main.jpeg",
+    "image_status": "leon_status.jpeg",
     "skills": [
         {
             "name": "Orgulho",
@@ -362,7 +362,7 @@
     "combos": [
         {
             "name": "Coliseu Selvagem",
-            "team_images": ["img/leon_main.jpeg", "img/viola_main.jpeg"],
+            "team_images": ["leon_main.jpeg", "viola_main.jpeg"],
             "benefits": "Vel +5, Salto +4"
         }
     ],
@@ -390,8 +390,8 @@
         "Velocity": "145 / 155",
         "Salto": "Max / 155"
     },
-    "image_main": "img/oasis_main.jpeg",
-    "image_status": "img/oasis_status.jpeg",
+    "image_main": "oasis_main.jpeg",
+    "image_status": "oasis_status.jpeg",
     "skills": [
         {
             "name": "Nascer do sol",
@@ -413,12 +413,12 @@
     "combos": [
         {
             "name": "Sob o Sol Escaldante",
-            "team_images":["img/oasis_main.jpeg", "img/hanla_main.jpeg"],
+            "team_images":["oasis_main.jpeg", "hanla_main.jpeg"],
             "benefits": "A pontuação de ativação do Oásis Meio-dia foi alterado para 9"
         },
         {
             "name":"Surfe de Ondas",
-            "team_images":["img/liscia.main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
+            "team_images":["liscia.main.jpeg", "oasis_main.jpeg", "athis_main.jpeg"],
             "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
         }
     ],
@@ -446,8 +446,8 @@
         "Velocity":"125 / 155",
         "Salto": "Max / 130"
         },
-    "image_main":"img/isabel_main.jpeg",
-    "image_status":"img/isabel_status.jpeg",
+    "image_main":"isabel_main.jpeg",
+    "image_status":"isabel_status.jpeg",
     "skills": [
         {
             "name":"Aparar",
@@ -465,12 +465,12 @@
     "combos": [
         {
             "name":"Double Queen",
-            "team_images":["img/isabel_main.jpeg", "img/hari_main.jpeg"],
+            "team_images":["isabel_main.jpeg", "hari_main.jpeg"],
             "benefits": "Aumenta o HP máximo dos aliados em 10"
         },
         {
             "name":"Alma Espartana",
-            "team_images":["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
+            "team_images":["isabel_main.jpeg", "roberto_main.jpeg", "nn_main.jpeg"],
             "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
         }
     ],
@@ -498,8 +498,8 @@
         "Velocity":"120 / 160",
         "Salto": "Max / 180"
         },
-    "image_main":"img/nishikawa_main.jpeg",
-    "image_status":"img/nishikawa_status.jpeg",
+    "image_main":"nishikawa_main.jpeg",
+    "image_status":"nishikawa_status.jpeg",
     "skills": [
         {
             "name":"Carga",
@@ -561,8 +561,8 @@
       "Velocity": "150 / 155",
       "Salto": "Max / 155"
     },
-    "image_main": "img/yunseok_main.jpeg",
-    "image_status": "img/yunseok",
+    "image_main": "yunseok_main.jpeg",
+    "image_status": "yunseok",
     "skills": [
       {
         "name": "Yunseok",
@@ -608,8 +608,8 @@
       "Velocity": "130 / 155",
       "Salto": "Max / 160"
     },
-    "image_main": "img/minjun_main.jpeg",
-    "image_status": "img/minjun_status.jpeg",
+    "image_main": "minjun_main.jpeg",
+    "image_status": "minjun_status.jpeg",
     "skills": [
       {
         "name": "Spin Blitz",
@@ -647,8 +647,8 @@
       "Velocity": "125 / 170",
       "Salto": "Max / 160"
     },
-    "image_main": "img/hongshi_main.jpeg",
-    "image_status": "img/hongshi_status.jpeg",
+    "image_main": "hongshi_main.jpeg",
+    "image_status": "hongshi_status.jpeg",
     "skills": [
       {
         "name": "Tigre Feroz",
@@ -698,8 +698,8 @@
       "Velocity": "150 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "img/dave_main.jpeg",
-    "image_status": "img/dave_status.jpeg",
+    "image_main": "dave_main.jpeg",
+    "image_status": "dave_status.jpeg",
     "skills": [
       {
         "name": "Aquecimento",
@@ -713,12 +713,12 @@
     "combos": [
       {
         "name": "Primeiro os Mais Velhos, Depois os Mais Novos",
-        "team_images": ["img/dave_main.jpeg", "img/mike_main.jpeg"],
+        "team_images": ["dave_main.jpeg", "mike_main.jpeg"],
         "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
       },
       {
         "name": "A Bela e a Fera",
-        "team_images": ["img/dave_main.jpeg", "img/saraSE_main.jpeg"],
+        "team_images": ["dave_main.jpeg", "saraSE_main.jpeg"],
         "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
       }
     ],
@@ -746,8 +746,8 @@
       "Velocity": "145 / 160",
       "Salto": "Max / 145"
     },
-    "image_main": "img/jenny_main.jpeg",
-    "image_status": "img/jenny_status.jpeg",
+    "image_main": "jenny_main.jpeg",
+    "image_status": "jenny_status.jpeg",
     "skills": [
       {
         "name": "Asas de Ícaro",
@@ -765,12 +765,12 @@
     "combos": [
       {
         "name": "Leite de Morango com Chocolate",
-        "team_images": ["img/jenny_main.jpeg", "img/nn_main.jpeg"],
+        "team_images": ["jenny_main.jpeg", "nn_main.jpeg"],
         "benefits": "Salto +5"
       },
       {
         "name":"Brasa do Abismo",
-        "team_images": ["img/ellio_main.jpeg", "img/jenny_main.jpeg", "img/hari_main.jpeg"],
+        "team_images": ["ellio_main.jpeg", "jenny_main.jpeg", "hari_main.jpeg"],
         "benefits": "ATQ +4, DEF +10, Vel +2, Salto +5"
       }
     ],
@@ -798,8 +798,8 @@
       "Velocity": "145 / 195",
       "Salto": "Max / 175"
     },
-    "image_main": "img/saraWS_main.jpeg",
-    "image_status": "img/saraWS_status.jpeg",
+    "image_main": "saraWS_main.jpeg",
+    "image_status": "saraWS_status.jpeg",
     "skills": [
       {
         "name": "Tufão",
@@ -853,8 +853,8 @@
       "Velocity": "130 / 155",
       "Salto": "Max / 165"
     },
-    "image_main": "img/heesung_main.jpeg",
-    "image_status": "img/heesung_status.jpeg",
+    "image_main": "heesung_main.jpeg",
+    "image_status": "heesung_status.jpeg",
     "skills": [
       {
         "name": "Defesa Absoluta",
@@ -880,7 +880,7 @@
     "combos": [
       {
         "name": "All-Star",
-        "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/Seolhwa_main.jpeg"],
+        "team_images": ["youngsup_main.jpeg", "heesung_main.jpeg", "Seolhwa_main.jpeg"],
         "benefits": "ATQ +4, Salto +4"
       }
     ],
@@ -908,8 +908,8 @@
       "Velocity": "120 / 150",
       "Salto": "Max / 165"
     },
-    "image_main": "img/roberto_main.jpeg",
-    "image_status": "img/roberto_status.jpeg",
+    "image_main": "roberto_main.jpeg",
+    "image_status": "roberto_status.jpeg",
     "skills": [
       {
         "name": "Armadura",
@@ -939,7 +939,7 @@
     "combos": [
       {
         "name": "Alma Espartana",
-        "team_images": ["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
+        "team_images": ["isabel_main.jpeg", "roberto_main.jpeg", "nn_main.jpeg"],
         "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
       }
     ],
@@ -967,8 +967,8 @@
       "Velocity": "Max / 115",
       "Salto": "160 / 165"
     },
-    "image_main": "img/athis_main.jpeg",
-    "image_status": "img/athis_status.jpeg",
+    "image_main": "athis_main.jpeg",
+    "image_status": "athis_status.jpeg",
     "skills": [
       {
         "name": "Ataque Traseiro Poderoso",
@@ -990,17 +990,17 @@
     "combos": [
       {
         "name": "Indiferente",
-        "team_images": ["img/athis_main.jpeg", "img/muyeong_main.jpeg"],
+        "team_images": ["athis_main.jpeg", "muyeong_main.jpeg"],
         "benefits": "DEF +10"
       },
       {
         "name": "Glória do Passado",
-        "team_images": ["img/lucas_main.jpeg", "img/athis_main.jpeg"],
+        "team_images": ["lucas_main.jpeg", "athis_main.jpeg"],
         "benefits": "Aumenta a velocidade após Athis deslizar e levantar-se"
       },
       {
         "name": "Surfe de Ondas",
-        "team_images": ["img/liscia.main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
+        "team_images": ["liscia.main.jpeg", "oasis_main.jpeg", "athis_main.jpeg"],
         "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
       }
     ],
@@ -1028,8 +1028,8 @@
       "Velocity": "130 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "img/yamadera_main.jpeg",
-    "image_status": "img/yamadera_status.jpeg",
+    "image_main": "yamadera_main.jpeg",
+    "image_status": "yamadera_status.jpeg",
     "skills": [
       {
         "name": "Impedimento",
@@ -1071,8 +1071,8 @@
       "Velocity": "120 / 160",
       "Salto": "Max / 165"
     },
-    "image_main": "img/sanghyeon_main.jpeg",
-    "image_status": "img/sanghyeon_status.jpeg",
+    "image_main": "sanghyeon_main.jpeg",
+    "image_status": "sanghyeon_status.jpeg",
     "skills": [
       {
         "name": "Melhores Momentos",
@@ -1110,8 +1110,8 @@
       "Velocity": "120 / 155",
       "Salto": "Max / 165"
     },
-    "image_main": "img/hanla_main.jpeg",
-    "image_status": "img/hanla_status.jpeg",
+    "image_main": "hanla_main.jpeg",
+    "image_status": "hanla_status.jpeg",
     "skills": [
       {
         "name": "Coração do Sol",
@@ -1137,7 +1137,7 @@
     "combos": [
       {
         "name": "Sob o Sol Escaldante",
-        "team_images": ["img/oasis_main.jpeg", "img/hanla_main.jpeg"],
+        "team_images": ["oasis_main.jpeg", "hanla_main.jpeg"],
         "benefits": "A pontuação de ativação do Oásis Meio-dia foi alterado para 9"
       }
     ],
@@ -1165,8 +1165,8 @@
       "Velocity": "120 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "img/mike_main.jpeg",
-    "image_status": "img/mike_status.jpeg",
+    "image_main": "mike_main.jpeg",
+    "image_status": "mike_status.jpeg",
     "skills": [
       {
         "name": "Pneu",
@@ -1180,7 +1180,7 @@
     "combos": [
       {
         "name": "Primeiro os Mais Velhos, Depois os Mais Novos",
-        "team_images": ["img/dave_main.jpeg", "img/mike_main.jpeg"],
+        "team_images": ["dave_main.jpeg", "mike_main.jpeg"],
         "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
       }
     ],
@@ -1208,8 +1208,8 @@
       "Velocity": "125 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "img/clyde_main.jpeg",
-    "image_status": "img/clyde_status.jpeg",
+    "image_main": "clyde_main.jpeg",
+    "image_status": "clyde_status.jpeg",
     "skills": [
       {
         "name": "Nina",
@@ -1243,8 +1243,8 @@
       "Velocity": "135 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "img/hari_main.jpeg",
-    "image_status": "img/hari_status.jpeg",
+    "image_main": "hari_main.jpeg",
+    "image_status": "hari_status.jpeg",
     "skills": [
       {
         "name": "Death Bloom",
@@ -1266,12 +1266,12 @@
     "combos": [
       {
         "name": "Double Queen",
-        "team_images": ["img/isabel_main.jpeg", "img/hari_main.jpeg"],
+        "team_images": ["isabel_main.jpeg", "hari_main.jpeg"],
         "benefits": "Aumenta o HP máximo dos aliados em 10"
       },
       {
         "name": "Brasa do Abismo",
-        "team_images": ["img/ellio_main.jpeg", "img/jenny_main.jpeg", "img/hari_main.jpeg"],
+        "team_images": ["ellio_main.jpeg", "jenny_main.jpeg", "hari_main.jpeg"],
         "benefits": "ATQ +4, DEF +10, Vel +2, Salto +5"
       }
     ],
@@ -1299,8 +1299,8 @@
       "Velocity": "140 / 160",
       "Salto": "Max / 145"
     },
-    "image_main": "img/crow_main.jpeg",
-    "image_status": "img/crow_status.jpeg",
+    "image_main": "crow_main.jpeg",
+    "image_status": "crow_status.jpeg",
     "skills": [
       {
         "name": "Corvo Sombrio",
@@ -1338,8 +1338,8 @@
       "Velocity": "130 / 150",
       "Salto": "Max / 170"
     },
-    "image_main": "img/claire_main.jpeg",
-    "image_status": "img/claire_status.jpeg",
+    "image_main": "claire_main.jpeg",
+    "image_status": "claire_status.jpeg",
     "skills": [
       {
         "name": "Overdrive",
@@ -1385,8 +1385,8 @@
       "Velocity": "135 / 155",
       "Salto": "Max / 165"
     },
-    "image_main": "img/seolhwa_main.jpeg",
-    "image_status": "img/seoulhwa_status.jpeg",
+    "image_main": "seolhwa_main.jpeg",
+    "image_status": "seoulhwa_status.jpeg",
     "skills": [
       {
         "name": "Ataque Surpresa",
@@ -1400,7 +1400,7 @@
     "combos": [
       {
         "name": "All-Star",
-        "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/seolhwa_main.jpeg"],
+        "team_images": ["youngsup_main.jpeg", "heesung_main.jpeg", "seolhwa_main.jpeg"],
         "benefits": "ATQ +4, Salto +4"
       }
     ],
@@ -1428,8 +1428,8 @@
       "Velocity": "Max / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "img/nn_main.jpeg",
-    "image_status": "img/nn_status.jpeg",
+    "image_main": "nn_main.jpeg",
+    "image_status": "nn_status.jpeg",
     "skills": [
       {
         "name": "Sniper",
@@ -1443,12 +1443,12 @@
     "combos": [
       {
         "name": "Leite de Morango com Chocolate",
-        "team_images": ["img/jenny_main.jpeg", "img/nn_main.jpeg"],
+        "team_images": ["jenny_main.jpeg", "nn_main.jpeg"],
         "benefits": "Salto +5"
       },
       {
         "name": "Alma Espartana",
-        "team_images": ["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
+        "team_images": ["isabel_main.jpeg", "roberto_main.jpeg", "nn_main.jpeg"],
         "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
       }
     ],
@@ -1476,8 +1476,8 @@
       "Velocity": "145 / 155",
       "Salto": "Max / 155"
     },
-    "image_main": "img/viola_main.jpeg",
-    "image_status": "img/viola_status.jpeg",
+    "image_main": "viola_main.jpeg",
+    "image_status": "viola_status.jpeg",
     "skills": [
       {
         "name": "Imprudência",
@@ -1495,7 +1495,7 @@
     "combos": [
       {
         "name": "Coliseu Selvagem",
-        "team_images": ["img/viola_main.jpeg", "img/leon_main.jpeg"],
+        "team_images": ["viola_main.jpeg", "leon_main.jpeg"],
         "benefits": "Vel +5, Salto +4"
       }
     ],
@@ -1523,8 +1523,8 @@
       "Velocity": "150 / 165",
       "Salto": "Max / 155"
     },
-    "image_main": "img/sohee_main.jpeg",
-    "image_status": "img/sohee_status.jpeg",
+    "image_main": "sohee_main.jpeg",
+    "image_status": "sohee_status.jpeg",
     "skills": [
       {
         "name": "Levantamento Estável",
@@ -1538,12 +1538,12 @@
     "combos": [
       {
         "name": "Flor de Dragão",
-        "team_images": ["img/sohee_main.jpeg", "img/ryuhyeon_main.jpeg"],
+        "team_images": ["sohee_main.jpeg", "ryuhyeon_main.jpeg"],
         "benefits": "ATQ +4, Salto +2"
       },
       {
         "name": "Força Estável",
-        "team_images": ["img/sohee_main.jpeg", "img/youngsup_main.jpeg"],
+        "team_images": ["sohee_main.jpeg", "youngsup_main.jpeg"],
         "benefits": "ATQ +4, Salto +2"
       }
     ],
@@ -1571,8 +1571,8 @@
       "Velocity": "135 / 160",
       "Salto": "140 / 150"
     },
-    "image_main": "img/ayeon_main.jpeg",
-    "image_status": "img/ayeon_status.jpeg",
+    "image_main": "ayeon_main.jpeg",
+    "image_status": "ayeon_status.jpeg",
     "skills": [
       {
         "name": "Reação Química",
@@ -1610,8 +1610,8 @@
       "Velocity": "Max / 175",
       "Salto": "Max / 135"
     },
-    "image_main": "img/liscia_main.jpeg",
-    "image_status": "img/liscia_status.jpeg",
+    "image_main": "liscia_main.jpeg",
+    "image_status": "liscia_status.jpeg",
     "skills": [
       {
         "name": "Saque Celestial",
@@ -1629,12 +1629,12 @@
     "combos": [
       {
         "name": "Pequeno, mas Poderoso",
-        "team_images": ["img/youngsup_main.jpeg", "img/liscia_main.jpeg"],
+        "team_images": ["youngsup_main.jpeg", "liscia_main.jpeg"],
         "benefits": "ATQ +7, Salto +4"
       },
       {
         "name": "Surfe de Ondas",
-        "team_images": ["img/liscia.main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
+        "team_images": ["liscia.main.jpeg", "oasis_main.jpeg", "athis_main.jpeg"],
         "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
       }
     ],
@@ -1662,8 +1662,8 @@
       "Velocity": "115 / 160",
       "Salto": "Max / 170"
     },
-    "image_main": "img/muyeong_main.jpeg",
-    "image_status": "img/muyeong_status.jpeg",
+    "image_main": "muyeong_main.jpeg",
+    "image_status": "muyeong_status.jpeg",
     "skills": [
       {
         "name": "Proteção",
@@ -1681,12 +1681,12 @@
     "combos": [
       {
         "name": "Indiferente",
-        "team_images": ["img/athis_main.jpeg", "img/muyeong_main.jpeg"],
+        "team_images": ["athis_main.jpeg", "muyeong_main.jpeg"],
         "benefits": "DEF +10"
       },
       {
         "name": "Parceiro de Seonrim",
-        "team_images": ["img/ryuhyeon_main.jpeg", "img/muyeong_main.jpeg"],
+        "team_images": ["ryuhyeon_main.jpeg", "muyeong_main.jpeg"],
         "benefits": "Aumenta a velocidade de carregamento de Ryuhyeon em 20%"
       }
     ],
