@@ -14,8 +14,8 @@
     "Velocity": "120 / 145",
     "Salto": "Max / 160"
   },
-  "image_main": "raul_main.jpeg",
-  "image_status": "raul_status.jpeg",
+  "image_main": "img/raul_main.jpeg",
+  "image_status": "img/raul_status.jpeg",
   "skills": [
     { 
       "name": "Spike da Fera", 
@@ -49,7 +49,7 @@
   "combos": [
     {
       "name": "Unificação de Ataque e Defesa",
-      "team_images": ["sif_main.jpeg", "raul_main.jpeg"],
+      "team_images": ["img/sif_main.jpeg", "img/raul_main.jpeg"],
       "benefits": "A velocidade de carregamento do Raul aumenta em 10%."
     }
   ],
@@ -92,8 +92,8 @@
     "Velocity": "120 / 160",
     "Salto": "Max / 170"
   },
-  "image_main": "ryuhyeon_main.jpeg",
-  "image_status": "ryuhyeon_status.jpeg",
+  "image_main": "img/ryuhyeon_main.jpeg",
+  "image_status": "img/ryuhyeon_status.jpeg",
   "skills": [
     { 
       "name": "Dragão Azul", 
@@ -107,12 +107,12 @@
   "combos": [
     {
       "name": "Parceiro de Seonrim",
-      "team_images": ["ryuhyeon_main.jpeg", "muyeong_main.jpeg"],
+      "team_images": ["img/ryuhyeon_main.jpeg", "img/muyeong_main.jpeg"],
       "benefits": "Aumenta a velocidade de carregamento de Ryuhyeon em 20%"
     },
     {
       "name": "Flor de Dragão",
-      "team_images": ["sohee_main.jpeg", "ryuhyeon_main.jpeg"],
+      "team_images": ["img/sohee_main.jpeg", "img/ryuhyeon_main.jpeg"],
       "benefits": "ATQ +4, Salto +2"
     }
   ],
@@ -155,8 +155,8 @@
     "Velocity": "150 / 160",
     "Salto": "Max / 170"
   },
-  "image_main": "lucas_main.jpeg",
-  "image_status": "lucas_status.jpeg",
+  "image_main": "img/lucas_main.jpeg",
+  "image_status": "img/lucas_status.jpeg",
   "skills": [
     { 
       "name": "Clarão", 
@@ -182,12 +182,12 @@
   "combos": [
     {
       "name": "Glória do Passado",
-      "team_images": ["lucas_main.jpeg", "athis_main.jpeg"],
+      "team_images": ["img/lucas_main.jpeg", "img/athis_main.jpeg"],
       "benefits": "Aumenta a velocidade após Athis deslizar e levantar-se"
     },
     {
       "name": "Eclipse",
-      "team_images": ["zero_main.jpeg", "lucas_main.jpeg"],
+      "team_images": ["img/zero_main.jpeg", "img/lucas_main.jpeg"],
       "benefits": "ATQ +3, Salto +2"
     }
   ],
@@ -230,8 +230,8 @@
     "Velocity": "130 / 180",
     "Salto": "Max / 170"
   },
-  "image_main": "youngsup_main.jpeg",
-  "image_status": "youngsup_status.jpeg",
+  "image_main": "img/youngsup_main.jpeg",
+  "image_status": "img/youngsup_status.jpeg",
   "skills": [
     { 
       "name": "Ataque Traseiro Poderoso", 
@@ -245,17 +245,17 @@
   "combos": [
     {
       "name": "Pequeno, mas Poderoso",
-      "team_images": ["youngsup_main.jpeg", "liscia.main.jpeg"],
+      "team_images": ["img/youngsup_main.jpeg", "img/liscia_main.jpeg"],
       "benefits": "ATQ +7, Salto +4"
     },
     {
       "name": "All-Star",
-      "team_images": ["youngsup_main.jpeg", "heesung_main.jpeg", "Seolhwa_main.jpeg"],
+      "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/Seolhwa_main.jpeg"],
       "benefits": "ATQ +4, Salto +4"
     },
     {
         "name": "Força Estável",
-        "team_images": ["youngsup_main.jpeg", "sohee_main.jpeg"],
+        "team_images": ["img/youngsup_main.jpeg", "img/sohee_main.jpeg"],
         "benefits": "ATQ +4, Salto +2"
     }
   ],
@@ -298,8 +298,8 @@
     "Velocity": "Max / 150",
     "Salto": "Max / 150"
   },
-  "image_main": "jaehyun_main.jpeg",
-  "image_status": "jaehyun_status.jpeg",
+  "image_main": "img/jaehyun_main.jpeg",
+  "image_status": "img/jaehyun_status.jpeg",
   "skills": [
     { 
       "name": "Determinação",
@@ -351,8 +351,8 @@
         "Velocity": "150 / 155",
         "Salto": "Max / 155"
         },
-    "image_main": "leon_main.jpeg",
-    "image_status": "leon_status.jpeg",
+    "image_main": "img/leon_main.jpeg",
+    "image_status": "img/leon_status.jpeg",
     "skills": [
         {
             "name": "Orgulho",
@@ -362,7 +362,7 @@
     "combos": [
         {
             "name": "Coliseu Selvagem",
-            "team_images": ["leon_main.jpeg", "viola_main.jpeg"],
+            "team_images": ["img/leon_main.jpeg", "img/viola_main.jpeg"],
             "benefits": "Vel +5, Salto +4"
         }
     ],
@@ -390,8 +390,8 @@
         "Velocity": "145 / 155",
         "Salto": "Max / 155"
     },
-    "image_main": "oasis_main.jpeg",
-    "image_status": "oasis_status.jpeg",
+    "image_main": "img/oasis_main.jpeg",
+    "image_status": "img/oasis_status.jpeg",
     "skills": [
         {
             "name": "Nascer do sol",
@@ -413,12 +413,12 @@
     "combos": [
         {
             "name": "Sob o Sol Escaldante",
-            "team_images":["oasis_main.jpeg", "hanla_main.jpeg"],
+            "team_images":["img/oasis_main.jpeg", "img/hanla_main.jpeg"],
             "benefits": "A pontuação de ativação do Oásis Meio-dia foi alterado para 9"
         },
         {
             "name":"Surfe de Ondas",
-            "team_images":["liscia.main.jpeg", "oasis_main.jpeg", "athis_main.jpeg"],
+            "team_images":["img/liscia_main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
             "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
         }
     ],
@@ -446,8 +446,8 @@
         "Velocity":"125 / 155",
         "Salto": "Max / 130"
         },
-    "image_main":"isabel_main.jpeg",
-    "image_status":"isabel_status.jpeg",
+    "image_main":"img/isabel_main.jpeg",
+    "image_status":"img/isabel_status.jpeg",
     "skills": [
         {
             "name":"Aparar",
@@ -465,12 +465,12 @@
     "combos": [
         {
             "name":"Double Queen",
-            "team_images":["isabel_main.jpeg", "hari_main.jpeg"],
+            "team_images":["img/isabel_main.jpeg", "img/hari_main.jpeg"],
             "benefits": "Aumenta o HP máximo dos aliados em 10"
         },
         {
             "name":"Alma Espartana",
-            "team_images":["isabel_main.jpeg", "roberto_main.jpeg", "nn_main.jpeg"],
+            "team_images":["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
             "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
         }
     ],
@@ -498,8 +498,8 @@
         "Velocity":"120 / 160",
         "Salto": "Max / 180"
         },
-    "image_main":"nishikawa_main.jpeg",
-    "image_status":"nishikawa_status.jpeg",
+    "image_main":"img/nishikawa_main.jpeg",
+    "image_status":"img/nishikawa_status.jpeg",
     "skills": [
         {
             "name":"Carga",
@@ -561,8 +561,8 @@
       "Velocity": "150 / 155",
       "Salto": "Max / 155"
     },
-    "image_main": "yunseok_main.jpeg",
-    "image_status": "yunseok",
+    "image_main": "img/yunseok_main.jpeg",
+    "image_status": "img/yunseok_status.jpeg",
     "skills": [
       {
         "name": "Yunseok",
@@ -608,8 +608,8 @@
       "Velocity": "130 / 155",
       "Salto": "Max / 160"
     },
-    "image_main": "minjun_main.jpeg",
-    "image_status": "minjun_status.jpeg",
+    "image_main": "img/minjun_main.jpeg",
+    "image_status": "img/minjun_status.jpeg",
     "skills": [
       {
         "name": "Spin Blitz",
@@ -647,8 +647,8 @@
       "Velocity": "125 / 170",
       "Salto": "Max / 160"
     },
-    "image_main": "hongshi_main.jpeg",
-    "image_status": "hongshi_status.jpeg",
+    "image_main": "img/hongshi_main.jpeg",
+    "image_status": "img/hongshi_status.jpeg",
     "skills": [
       {
         "name": "Tigre Feroz",
@@ -698,8 +698,8 @@
       "Velocity": "150 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "dave_main.jpeg",
-    "image_status": "dave_status.jpeg",
+    "image_main": "img/dave_main.jpeg",
+    "image_status": "img/dave_status.jpeg",
     "skills": [
       {
         "name": "Aquecimento",
@@ -713,12 +713,12 @@
     "combos": [
       {
         "name": "Primeiro os Mais Velhos, Depois os Mais Novos",
-        "team_images": ["dave_main.jpeg", "mike_main.jpeg"],
+        "team_images": ["img/dave_main.jpeg", "img/mike_main.jpeg"],
         "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
       },
       {
         "name": "A Bela e a Fera",
-        "team_images": ["dave_main.jpeg", "saraSE_main.jpeg"],
+        "team_images": ["img/dave_main.jpeg", "img/saraSE_main.jpeg"],
         "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
       }
     ],
@@ -746,8 +746,8 @@
       "Velocity": "145 / 160",
       "Salto": "Max / 145"
     },
-    "image_main": "jenny_main.jpeg",
-    "image_status": "jenny_status.jpeg",
+    "image_main": "img/jenny_main.jpeg",
+    "image_status": "img/jenny_status.jpeg",
     "skills": [
       {
         "name": "Asas de Ícaro",
@@ -765,12 +765,12 @@
     "combos": [
       {
         "name": "Leite de Morango com Chocolate",
-        "team_images": ["jenny_main.jpeg", "nn_main.jpeg"],
+        "team_images": ["img/jenny_main.jpeg", "img/nn_main.jpeg"],
         "benefits": "Salto +5"
       },
       {
         "name":"Brasa do Abismo",
-        "team_images": ["ellio_main.jpeg", "jenny_main.jpeg", "hari_main.jpeg"],
+        "team_images": ["img/ellio_main.jpeg", "img/jenny_main.jpeg", "img/hari_main.jpeg"],
         "benefits": "ATQ +4, DEF +10, Vel +2, Salto +5"
       }
     ],
@@ -798,8 +798,8 @@
       "Velocity": "145 / 195",
       "Salto": "Max / 175"
     },
-    "image_main": "saraWS_main.jpeg",
-    "image_status": "saraWS_status.jpeg",
+    "image_main": "img/saraWS_main.jpeg",
+    "image_status": "img/saraWS_status.jpeg",
     "skills": [
       {
         "name": "Tufão",
@@ -853,8 +853,8 @@
       "Velocity": "130 / 155",
       "Salto": "Max / 165"
     },
-    "image_main": "heesung_main.jpeg",
-    "image_status": "heesung_status.jpeg",
+    "image_main": "img/heesung_main.jpeg",
+    "image_status": "img/heesung_status.jpeg",
     "skills": [
       {
         "name": "Defesa Absoluta",
@@ -880,7 +880,7 @@
     "combos": [
       {
         "name": "All-Star",
-        "team_images": ["youngsup_main.jpeg", "heesung_main.jpeg", "Seolhwa_main.jpeg"],
+        "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/Seolhwa_main.jpeg"],
         "benefits": "ATQ +4, Salto +4"
       }
     ],
@@ -908,8 +908,8 @@
       "Velocity": "120 / 150",
       "Salto": "Max / 165"
     },
-    "image_main": "roberto_main.jpeg",
-    "image_status": "roberto_status.jpeg",
+    "image_main": "img/roberto_main.jpeg",
+    "image_status": "img/roberto_status.jpeg",
     "skills": [
       {
         "name": "Armadura",
@@ -939,7 +939,7 @@
     "combos": [
       {
         "name": "Alma Espartana",
-        "team_images": ["isabel_main.jpeg", "roberto_main.jpeg", "nn_main.jpeg"],
+        "team_images": ["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
         "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
       }
     ],
@@ -967,8 +967,8 @@
       "Velocity": "Max / 115",
       "Salto": "160 / 165"
     },
-    "image_main": "athis_main.jpeg",
-    "image_status": "athis_status.jpeg",
+    "image_main": "img/athis_main.jpeg",
+    "image_status": "img/athis_status.jpeg",
     "skills": [
       {
         "name": "Ataque Traseiro Poderoso",
@@ -990,17 +990,17 @@
     "combos": [
       {
         "name": "Indiferente",
-        "team_images": ["athis_main.jpeg", "muyeong_main.jpeg"],
+        "team_images": ["img/athis_main.jpeg", "img/muyeong_main.jpeg"],
         "benefits": "DEF +10"
       },
       {
         "name": "Glória do Passado",
-        "team_images": ["lucas_main.jpeg", "athis_main.jpeg"],
+        "team_images": ["img/lucas_main.jpeg", "img/athis_main.jpeg"],
         "benefits": "Aumenta a velocidade após Athis deslizar e levantar-se"
       },
       {
         "name": "Surfe de Ondas",
-        "team_images": ["liscia.main.jpeg", "oasis_main.jpeg", "athis_main.jpeg"],
+        "team_images": ["img/liscia_main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
         "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
       }
     ],
@@ -1028,8 +1028,8 @@
       "Velocity": "130 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "yamadera_main.jpeg",
-    "image_status": "yamadera_status.jpeg",
+    "image_main": "img/yamadera_main.jpeg",
+    "image_status": "img/yamadera_status.jpeg",
     "skills": [
       {
         "name": "Impedimento",
@@ -1071,8 +1071,8 @@
       "Velocity": "120 / 160",
       "Salto": "Max / 165"
     },
-    "image_main": "sanghyeon_main.jpeg",
-    "image_status": "sanghyeon_status.jpeg",
+    "image_main": "img/sanghyeon_main.jpeg",
+    "image_status": "img/sanghyeon_status.jpeg",
     "skills": [
       {
         "name": "Melhores Momentos",
@@ -1110,8 +1110,8 @@
       "Velocity": "120 / 155",
       "Salto": "Max / 165"
     },
-    "image_main": "hanla_main.jpeg",
-    "image_status": "hanla_status.jpeg",
+    "image_main": "img/hanla_main.jpeg",
+    "image_status": "img/hanla_status.jpeg",
     "skills": [
       {
         "name": "Coração do Sol",
@@ -1137,7 +1137,7 @@
     "combos": [
       {
         "name": "Sob o Sol Escaldante",
-        "team_images": ["oasis_main.jpeg", "hanla_main.jpeg"],
+        "team_images": ["img/oasis_main.jpeg", "img/hanla_main.jpeg"],
         "benefits": "A pontuação de ativação do Oásis Meio-dia foi alterado para 9"
       }
     ],
@@ -1165,8 +1165,8 @@
       "Velocity": "120 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "mike_main.jpeg",
-    "image_status": "mike_status.jpeg",
+    "image_main": "img/mike_main.jpeg",
+    "image_status": "img/mike_status.jpeg",
     "skills": [
       {
         "name": "Pneu",
@@ -1180,7 +1180,7 @@
     "combos": [
       {
         "name": "Primeiro os Mais Velhos, Depois os Mais Novos",
-        "team_images": ["dave_main.jpeg", "mike_main.jpeg"],
+        "team_images": ["img/dave_main.jpeg", "img/mike_main.jpeg"],
         "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
       }
     ],
@@ -1208,8 +1208,8 @@
       "Velocity": "125 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "clyde_main.jpeg",
-    "image_status": "clyde_status.jpeg",
+    "image_main": "img/clyde_main.jpeg",
+    "image_status": "img/clyde_status.jpeg",
     "skills": [
       {
         "name": "Nina",
@@ -1243,8 +1243,8 @@
       "Velocity": "135 / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "hari_main.jpeg",
-    "image_status": "hari_status.jpeg",
+    "image_main": "img/hari_main.jpeg",
+    "image_status": "img/hari_status.jpeg",
     "skills": [
       {
         "name": "Death Bloom",
@@ -1266,12 +1266,12 @@
     "combos": [
       {
         "name": "Double Queen",
-        "team_images": ["isabel_main.jpeg", "hari_main.jpeg"],
+        "team_images": ["img/isabel_main.jpeg", "img/hari_main.jpeg"],
         "benefits": "Aumenta o HP máximo dos aliados em 10"
       },
       {
         "name": "Brasa do Abismo",
-        "team_images": ["ellio_main.jpeg", "jenny_main.jpeg", "hari_main.jpeg"],
+        "team_images": ["img/ellio_main.jpeg", "img/jenny_main.jpeg", "img/hari_main.jpeg"],
         "benefits": "ATQ +4, DEF +10, Vel +2, Salto +5"
       }
     ],
@@ -1299,8 +1299,8 @@
       "Velocity": "140 / 160",
       "Salto": "Max / 145"
     },
-    "image_main": "crow_main.jpeg",
-    "image_status": "crow_status.jpeg",
+    "image_main": "img/crow_main.jpeg",
+    "image_status": "img/crow_status.jpeg",
     "skills": [
       {
         "name": "Corvo Sombrio",
@@ -1338,8 +1338,8 @@
       "Velocity": "130 / 150",
       "Salto": "Max / 170"
     },
-    "image_main": "claire_main.jpeg",
-    "image_status": "claire_status.jpeg",
+    "image_main": "img/claire_main.jpeg",
+    "image_status": "img/claire_status.jpeg",
     "skills": [
       {
         "name": "Overdrive",
@@ -1385,8 +1385,8 @@
       "Velocity": "135 / 155",
       "Salto": "Max / 165"
     },
-    "image_main": "seolhwa_main.jpeg",
-    "image_status": "seoulhwa_status.jpeg",
+    "image_main": "img/seolhwa_main.jpeg",
+    "image_status": "img/seoulhwa_status.jpeg",
     "skills": [
       {
         "name": "Ataque Surpresa",
@@ -1400,7 +1400,7 @@
     "combos": [
       {
         "name": "All-Star",
-        "team_images": ["youngsup_main.jpeg", "heesung_main.jpeg", "seolhwa_main.jpeg"],
+        "team_images": ["img/youngsup_main.jpeg", "img/heesung_main.jpeg", "img/seolhwa_main.jpeg"],
         "benefits": "ATQ +4, Salto +4"
       }
     ],
@@ -1428,8 +1428,8 @@
       "Velocity": "Max / 160",
       "Salto": "Max / 160"
     },
-    "image_main": "nn_main.jpeg",
-    "image_status": "nn_status.jpeg",
+    "image_main": "img/nn_main.jpeg",
+    "image_status": "img/nn_status.jpeg",
     "skills": [
       {
         "name": "Sniper",
@@ -1443,12 +1443,12 @@
     "combos": [
       {
         "name": "Leite de Morango com Chocolate",
-        "team_images": ["jenny_main.jpeg", "nn_main.jpeg"],
+        "team_images": ["img/jenny_main.jpeg", "img/nn_main.jpeg"],
         "benefits": "Salto +5"
       },
       {
         "name": "Alma Espartana",
-        "team_images": ["isabel_main.jpeg", "roberto_main.jpeg", "nn_main.jpeg"],
+        "team_images": ["img/isabel_main.jpeg", "img/roberto_main.jpeg", "img/nn_main.jpeg"],
         "benefits": "ATQ +6, DEF +10, Vel +2, Salto +4"
       }
     ],
@@ -1476,8 +1476,8 @@
       "Velocity": "145 / 155",
       "Salto": "Max / 155"
     },
-    "image_main": "viola_main.jpeg",
-    "image_status": "viola_status.jpeg",
+    "image_main": "img/viola_main.jpeg",
+    "image_status": "img/viola_status.jpeg",
     "skills": [
       {
         "name": "Imprudência",
@@ -1495,7 +1495,7 @@
     "combos": [
       {
         "name": "Coliseu Selvagem",
-        "team_images": ["viola_main.jpeg", "leon_main.jpeg"],
+        "team_images": ["img/viola_main.jpeg", "img/leon_main.jpeg"],
         "benefits": "Vel +5, Salto +4"
       }
     ],
@@ -1523,8 +1523,8 @@
       "Velocity": "150 / 165",
       "Salto": "Max / 155"
     },
-    "image_main": "sohee_main.jpeg",
-    "image_status": "sohee_status.jpeg",
+    "image_main": "img/sohee_main.jpeg",
+    "image_status": "img/sohee_status.jpeg",
     "skills": [
       {
         "name": "Levantamento Estável",
@@ -1538,12 +1538,12 @@
     "combos": [
       {
         "name": "Flor de Dragão",
-        "team_images": ["sohee_main.jpeg", "ryuhyeon_main.jpeg"],
+        "team_images": ["img/sohee_main.jpeg", "img/ryuhyeon_main.jpeg"],
         "benefits": "ATQ +4, Salto +2"
       },
       {
         "name": "Força Estável",
-        "team_images": ["sohee_main.jpeg", "youngsup_main.jpeg"],
+        "team_images": ["img/sohee_main.jpeg", "img/youngsup_main.jpeg"],
         "benefits": "ATQ +4, Salto +2"
       }
     ],
@@ -1571,8 +1571,8 @@
       "Velocity": "135 / 160",
       "Salto": "140 / 150"
     },
-    "image_main": "ayeon_main.jpeg",
-    "image_status": "ayeon_status.jpeg",
+    "image_main": "img/ayeon_main.jpeg",
+    "image_status": "img/ayeon_status.jpeg",
     "skills": [
       {
         "name": "Reação Química",
@@ -1580,11 +1580,7 @@
       }
     ],
     "combos": [
-      {
-        "name": "",
-        "team_images": [""],
-        "benefits": ""
-      }
+      
     ],
     "ascension_levels": [
       { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
@@ -1610,8 +1606,8 @@
       "Velocity": "Max / 175",
       "Salto": "Max / 135"
     },
-    "image_main": "liscia_main.jpeg",
-    "image_status": "liscia_status.jpeg",
+    "image_main": "img/liscia_main.jpeg",
+    "image_status": "img/liscia_status.jpeg",
     "skills": [
       {
         "name": "Saque Celestial",
@@ -1629,12 +1625,12 @@
     "combos": [
       {
         "name": "Pequeno, mas Poderoso",
-        "team_images": ["youngsup_main.jpeg", "liscia_main.jpeg"],
+        "team_images": ["img/youngsup_main.jpeg", "img/liscia_main.jpeg"],
         "benefits": "ATQ +7, Salto +4"
       },
       {
         "name": "Surfe de Ondas",
-        "team_images": ["liscia.main.jpeg", "oasis_main.jpeg", "athis_main.jpeg"],
+        "team_images": ["img/liscia_main.jpeg", "img/oasis_main.jpeg", "img/athis_main.jpeg"],
         "benefits": "ATQ +7, DEF +5, Vel +5, Salto +5"
       }
     ],
@@ -1662,8 +1658,8 @@
       "Velocity": "115 / 160",
       "Salto": "Max / 170"
     },
-    "image_main": "muyeong_main.jpeg",
-    "image_status": "muyeong_status.jpeg",
+    "image_main": "img/muyeong_main.jpeg",
+    "image_status": "img/muyeong_status.jpeg",
     "skills": [
       {
         "name": "Proteção",
@@ -1681,12 +1677,12 @@
     "combos": [
       {
         "name": "Indiferente",
-        "team_images": ["athis_main.jpeg", "muyeong_main.jpeg"],
+        "team_images": ["img/athis_main.jpeg", "img/muyeong_main.jpeg"],
         "benefits": "DEF +10"
       },
       {
         "name": "Parceiro de Seonrim",
-        "team_images": ["ryuhyeon_main.jpeg", "muyeong_main.jpeg"],
+        "team_images": ["img/ryuhyeon_main.jpeg", "img/muyeong_main.jpeg"],
         "benefits": "Aumenta a velocidade de carregamento de Ryuhyeon em 20%"
       }
     ],
@@ -1697,6 +1693,256 @@
       { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +3<br><strong>[Proteção]</strong> DEF +52, Potência -43%"},
       { "level": 4, "upgrade_details": "<strong>[Status]</strong> Vel +4, DEF +3<br><strong>[Proteção]</strong> DEF +56, Potência -47.1%"},
       { "level": 5, "upgrade_details": "<strong>[Status]</strong> Salto +2, DEF +4<br><strong>[Proteção]</strong> DEF +60, Potência -50.6%"}
+    ]
+  },
+  {
+    "name": "Sodam",
+    "rank": "S-",
+    "position": "SE",
+    "height": "146cm",
+    "number": "08",
+    "birthday": "29 de Julho",
+    "summary": "Apesar de estudar em uma escola de artes marciais, seu verdadeiro sonho é se tornar jogadora de vôlei. Tudo começou quando visitou a escola Seonlim e se encantou ao ver os estudantes jogando com tanta paixão. Ao ingressar na nova escola, acabou frustrada ao descobrir que Ryuhyeon havia proibido o vôlei. Desde então, não desgruda de Hanla, sempre correndo atrás dela como um filhote grudado à mãe. Aceita qualquer comida que a Hanla ofereça, como um passarinho faminto, mesmo que às vezes acabe passando mal por isso.",
+    "phrase": "Se tem um sonho, lute por ele.",
+    "atributes": {
+      "Attack": "Max / 155",
+      "Defense": "110 / 155",
+      "Velocity": "Max / 155",
+      "Salto": "Max / 155"
+    },
+    "image_main": "img/sodam_main.jpeg",
+    "image_status": "img/sodam_status.jpeg",
+    "skills": [
+      {
+        "name": "Girassol",
+        "desc": "Enquanto Habilidade Ativação, realiza um Levantamento em direção a Ponteiro. De acordo com a distância entre Jogador e Ponteiro, o Potência da Bola aumenta proporcionalmente. Habilidade pode ser ligado/desligado."
+      },
+      {
+        "name": "Luz da Esperança",
+        "desc": "Sempre que Time perde Perda de Ponto, há uma certa chance de colocar os Jogador do Time no estado Engajado."
+      }
+    ],
+    "combos": [
+      
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +10<br><strong>[Luz da Esperança]</strong> Chance de Engajado 6.5%"},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> Vel +3<br><strong>[Luz da Esperança]</strong> Chance de Engajado 9%"},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +10<br><strong>[Luz da Esperança]</strong> Chance de Engajado 10%"},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +5<br><strong>[Luz da Esperança]</strong> Chance de Engajado 12.5%"},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +5<br><strong>[Luz da Esperança]</strong> Chance de Engajado 15%"}
+    ]
+  },
+  {
+    "name": "Sara",
+    "rank": "S",
+    "position": "SE",
+    "height": "180cm",
+    "number": "02",
+    "birthday": "05 de Janeiro",
+    "summary": "Sara Seo é considerada uma das 5 maiores atacantes do mundo, reconhecida por sua agilidade em quadra. Apesar de ser originalmente ponta, ela atua em qualquer posição com alto desempenho. Atualmente está como levantadora para ajudar Siwoo, mas pode voltar a jogar como atacante no futuro.",
+    "phrase": "Não importa o quão forte você bata, não ganhará mais de 2 pontos.",
+    "atributes": {
+      "Attack": "Max / 180",
+      "Defense": "115 / 150",
+      "Velocity": "120 / 190",
+      "Salto": "Max / 170"
+    },
+    "image_main": "img/saraSE_main.jpeg",
+    "image_status": "img/saraSE_status.jpeg",
+    "skills": [
+      {
+        "name": "Levantamento Crítico",
+        "desc": "Ao realizar Levantamento, um círculo aparece ao redor da Bola indicando o tempo correto. Se Cortada for usado no momento em que a Bola tocar o círculo, o Potência da Bola aumenta."
+      },
+      {
+        "name": "Ataque Duplo de Cristal Gelado",
+        "desc": "Executa um Cortada com efeito de floco de neve, aumentando Efeito da Bola em 35% e Potência em 100%"
+      },
+      {
+        "name": "Setter de Velocidade",
+        "desc": "A quantidade de redução de Vel causada pela duração do Rali diminui em 30%"
+      }
+    ],
+    "combos": [
+      {
+        "name": "A Bela e a Fera",
+        "team_images": ["img/dave_main.jpeg", "img/saraSE_main.jpeg"],
+        "benefits": "Aumenta a velodidade das flexões de Dave em 20%"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +5, Vel +5, Salto +2, DEF +5<br><strong>[Levantamento Crítico]</strong> Potência +15"},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Salto +1, DEF +5<br><strong>[Levantamento Crítico]</strong> Potência +16.5"},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Salto +2, DEF +5<br><strong>[Levantamento Crítico]</strong> Potência +17.25"},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +5, Salto +1, DEF +5<br><strong>[Levantamento Crítico]</strong> Potência +18"},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Salto +1, DEF +5<br><strong>[Levantamento Crítico]</strong> Potência +18"}
+    ]
+  },
+  {
+    "name": "Tânia",
+    "rank": "S-",
+    "position": "SE",
+    "height": "167cm",
+    "number": "09",
+    "birthday": "28 de Outubro",
+    "summary": "Tânia é a filha mais nova do presidente do famoso grupo Wilton Corporation. Desde pequena cresceu rodeada pelas bolas da «RISE», marca da família, e acabou se apaixonando naturalmente pelo vôlei. Tem talento e paixão de sobra,mas também carrega o jeito mimado de caçula, o que a torna um pouco egocêntrica. Seus passes são rápidos e certeiros, mas muitas vezes ignoram os outros jogadores, deixando os colegas perdidos em quadra. Assim como ela, Clyde também nasceu em uma família rica, e os dois se conhecem desde a infância. O que mais a incomoda é o fato de Clyde ser o único que nunca tentou impressioná-la. Um dia, ela vai fazê-lo reconhecer o quanto é incrível.",
+    "phrase": "O protagonista da minha vida sou eu.",
+    "atributes": {
+      "Attack": "Max / 155",
+      "Defense": "110 / 155",
+      "Velocity": "Max / 155",
+      "Salto": "Max / 155"
+    },
+    "image_main": "img/tania_main.jpeg",
+    "image_status": "img/tania_status.jpeg",
+    "skills": [
+      {
+        "name": "Levantamento Rápido",
+        "desc": "Lança um Levantamento que cai rapidamente. Ao Cortada o Levantamento Rápido, quanto maior o Potência Vertical da Bola lançada, maior será o Potência da Bola. (Alta dificuldade, difícil para iniciantes)"
+      },
+      {
+        "name": "Setter de Velocidade",
+        "desc": "A quantidade de redução de Vel causada pela duração do Rali diminui em 30%"
+      }
+    ],
+    "combos": [
+     
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +10<br><strong></strong> "},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> Vel +3<br><strong></strong> "},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +10<br><strong></strong> "},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +5<br><strong></strong> "},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +5<br><strong></strong> "}
+    ]
+  },
+  {
+    "name": "Ellio",
+    "rank": "S",
+    "position": "SE",
+    "height": "182cm",
+    "number": "07",
+    "birthday": "06 de Junho",
+    "summary": "Ele já fez parte de um time de grande renome, mas por certos motivos acabou dispensado e encontrou um novo caminho na Liga Phantom. Atualmente joga ao lado de Jenny, conquistando fãs com seu carisma e talento para entreter. Preocupa-se profundamente com a Jenny, que vive um momento difícil na Liga Phantom, e a acompanha de perto, cuidando dela de forma discreta. Embora goste de se autointitular «interesseiro», todos ao redor o enxergam como uma boa pessoa. Pode parecer frio e egoísta na superfície, mas na verdade está sempre atento e pronto para apoiar quem precisa.",
+    "phrase": "Leve como o vento, flexível como o junco.",
+    "atributes": {
+      "Attack": "Max / 165",
+      "Defense": "100 / 165",
+      "Velocity": "Max / 165",
+      "Salto": "Max / 155"
+    },
+    "image_main": "img/ellio_main.jpeg",
+    "image_status": "img/ellio_status.jpeg",
+    "skills": [
+      {
+        "name": "Lançamento dp Abismo",
+        "desc": "Quanto mais vertical for o Cortada a partir do Levantamento realizado por esse Jogador, maior será o Potência do Bola."
+      },
+      {
+        "name": "Saque Flutuante Híbrido",
+        "desc": "A partir da postura Saque em Suspensão, executa um Saque Flutuante de forma inesperada. Se este Saque for recebido com Peixinho por um Jogador com DEF inferior a 150, o Bola será lançado para longe."
+      }
+    ],
+    "combos": [
+      {
+        "name": "Brasa do Abismo",
+        "team_images": ["img/ellio_main.jpeg", "img/jenny_main.jpeg", "img/hari_main.jpeg"],
+        "benefits": "ATQ +4, DEF +10, Vel +2, Salto +5"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +3, Salto +2, DEF +3<br><strong>[Lançamento do Abismo]</strong> Bola Potência máxima 25.2%"},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Vel +2, Salto +2, DEF +2<br><strong>[Lançamento do Abismo]</strong> Bola Potência máxima 26.4%"},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> Vel +1, Salto +1, DEF +5<br><strong>[Lançamento do Abismo]</strong> Bola Potência máxima 27.6%"},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +2, DEF +5<br><strong>[Lançamento do Abismo]</strong> Bola Potência máxima 30%"},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Vel +2<br><strong>[Lançamento do Abismo]</strong> Bola Potência máxima 30%"}
+    ]
+  },
+  {
+    "name": "Zero",
+    "rank": "S",
+    "position": "SE",
+    "height": "180cm",
+    "number": "07",
+    "birthday": "01 de Abril",
+    "summary": "Esse era Sanghyeon há 5 anos. Desde o ensino fundamental, chamava atenção como um verdadeiro «gênio levantador», graças à sua visão de jogo extraordinária. Dizia-se que, independentemente da posição em quadra, ele sempre se destacaria. Seu talento o levou a permanecer como levantador titular do Sun Spark mesmo depois de entrar na Liga Phantom. O nome «Zero» não é seu verdadeiro nome, mas sim um título artístico criado para sua carreira internacional. Segundo rumores, foi Carla quem lhe deu esse nome. Após deixara Liga Phantom, Sanghyeon se transferiu para uma escola de artes. No primeiro dia de aula, nem mesmo seus antigos colegas o reconheceram. O cabelo tingido em cores chamativas e o jeito de falar completamente diferente faziam dele quase outra pessoa. Quando alguns amigos perguntaram o motivo da mudança, Sanghyeon apenas manteve o olhar fixo no celular, em silêncio.",
+    "phrase": "Um erro cometido nunca deve ser repetido.",
+    "atributes": {
+      "Attack": "140 / 160",
+      "Defense": "120 / 165",
+      "Velocity": "Max / 165",
+      "Salto": "Max / 160"
+    },
+    "image_main": "img/zero_main.jpeg",
+    "image_status": "img/zero_status.jpeg",
+    "skills": [
+      {
+        "name": "Toque de Destaque",
+        "desc": "Ao Habilidade Ativação, é realizado um Levantamento baixo e de queda lenta para Ponteiro. Esse Levantamento brilha ao aproximar-se do ponto mais alto, e antes disso não é possível Cortada. Ao realizar Cortada nesse Levantamento, o Potência do Bola aumenta em 35% e o Efeito aumenta em 2.5. Se não for possível realizar Cortada, Ponteiro entra no estado Desanimado"
+      }
+    ],
+    "combos": [
+      {
+        "name": "Eclipse",
+        "team_images": ["img/zero_main.jpeg", "img/lucas_main.jpeg"],
+        "benefits": "ATQ +3, Salto +2"
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> <br><strong>[Toque de Destaque]</strong> Tempo de Espera: 18 sec, Duração: 5 sec"},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> <br><strong>[Toque de Destaque]</strong> Tempo de Espera: 18 sec, Duração: 6 sec"},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +2, DEF +2<br><strong>[Toque de Destaque]</strong> Tempo de Espera: 15 sec, Duração: 6 sec"},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +1, Vel +1, DEF +1<br><strong>[Toque de Destaque]</strong> Tempo de Espera: 12 sec, Duração: 6 sec"},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Vel +2, DEF +1<br><strong>[Toque de Destaque]</strong> Tempo de Espera: 12 sec, Duração: 6 sec"}
+    ]
+  },
+  {
+    "name": "Sif",
+    "rank": "S",
+    "position": "SE",
+    "height": "188cm",
+    "number": "03",
+    "birthday": "22 de Setembro",
+    "summary": "A número um entre as levantadoras da Liga Phantom. Três palavras definem quem ela é: fria, calma e perfeccionista. Nada a abala, e ela sempre encontra uma solução, sendo o pilar que mantém a equipe de pé. Essa é a imagem que o mundo vê... Mas por trás dela existe alguém movida pelo amor. Tudo o que se mostra é apenas uma máscara. O que realmente faz seu coração bater é o amor! Mais uma vez, ela luta para conter os sentimentos profundos que nutre por Raul. As vezes, seu coração acaba falando mais alto, mesmo sem querer, mas Sif acredita que ninguém percebeu.",
+    "phrase": "Tudo o que eu faço é por você!",
+    "atributes": {
+      "Attack": "Max / 170",
+      "Defense": "115 / 155",
+      "Velocity": "140 / 155",
+      "Salto": "Max / 160"
+    },
+    "image_main": "img/sif_main.jpeg",
+    "image_status": "img/sif_status.jpeg",
+    "skills": [
+      {
+        "name": "Parede Gladius",
+        "desc": "Quando Habilidade Ativação, o Time recupera 30 de Resistência. Enquanto Habilidade estiver Ativo, o DEF dos Jogador do Time aumenta proporcionalmente ao ATQ de cada Jogador."
+      },
+      {
+        "name": "Passe Coroa",
+        "desc": "Dá prioridade ao Levantamento para o Jogador com maior ATQ dentro do Time. Se o ATQ desse Jogador for o mais alto, a probabilidade de Ataque Duplo aumenta até 95%"
+      }
+    ],
+    "combos": [
+      {
+        "name": "Unificação de Ataque e Defesa",
+        "team_images": ["img/sif_main.jpeg", "img/raul_main.jpeg"],
+        "benefits": "A velocidade de carregamento do Raul aumenta em 10%."
+      }
+    ],
+    "ascension_levels": [
+      { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +3<br><strong>[Parede Gladius]</strong> Tempo de Espera: 13 sec, Duração: 4 sec"},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> ATQ +2<br><strong>[Parede Gladius]</strong> Tempo de Espera: 12 sec, Duração: 4 sec"},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +2<br><strong>[Parede Gladius]</strong> Tempo de Espera: 12 sec, Duração: 5 sec"},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> ATQ +1<br><strong>[Parede Gladius]</strong> Tempo de Espera: 11 sec, Duração: 5 sec"},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> ATQ +2<br><strong>[Parede Gladius]</strong> Tempo de Espera: 11 sec, Duração: 5 sec"}
     ]
   }
 ]
