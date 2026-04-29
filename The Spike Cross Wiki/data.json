@@ -1,5 +1,25 @@
 [
   {
+    "_comment": "ESTRUTURA DE DADOS - The Spike Cross Wiki",
+    "_description": "Cada objeto neste array representa um jogador com suas informações completas",
+    "_fields": {
+      "name": "Nome do jogador",
+      "rank": "Classificação (S-, S, S+)",
+      "position": "Posição (WS=Wing Spiker, MB=Middle Blocker, SE=Setter)",
+      "height": "Altura do jogador",
+      "number": "Número da camisa",
+      "birthday": "Data de aniversário",
+      "summary": "Biografia e história do jogador",
+      "phrase": "Frase característica",
+      "atributes": "Objeto com atributos (Attack, Defense, Velocity, Salto)",
+      "image_main": "Caminho da imagem principal",
+      "image_status": "Caminho da imagem de status",
+      "skills": "Array de habilidades com nome e descrição",
+      "combos": "Array de combinações com nome, imagens e benefícios",
+      "ascension_levels": "Array de níveis de ascensão (0-5) com melhorias"
+    }
+  },
+  {
   "name": "Raul",
   "rank": "S+",
   "position": "WS",
@@ -1709,8 +1729,8 @@
     "image_status": "img/muyeong_status.jpeg",
     "skills": [
       {
-        "name": "Proteção",
-        "desc": "Durante Recepção, são geradas gotas, aumentando o DEF do Jogador do Time contido nas gotas."
+        "name": "Baluarte",
+        "desc": "Ao Ativação Habilidade, o jogador com a menor DEF entre Companheiros de Equipe entra no estado Baluarte. Durante o estado Baluarte, a DEF e o Alcance de Defesa aumentam, e o estado Baluarte é removido ao defender um Cortada."
       },
       {
         "name": "jogo Estável",
@@ -1719,6 +1739,10 @@
       {
         "name": "Levantamento Lento",
         "desc": "Reduz o Efeito da Bola para realizar um Levantamento estável e que caia lentamente."
+      },
+      {
+        "name": "Golpear",
+        "desc": "Ao defender um Finta no estado Baluarte, muda para o estado Golpear. Durante o estado Golpear, ATQ aumenta"
       }
     ],
     "combos": [
@@ -1735,11 +1759,11 @@
     ],
     "ascension_levels": [
       { "level": 0, "upgrade_details": "Status base conforme o recrutamento." },
-      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +3<br><strong>[Proteção]</strong> DEF +44, Potência -32.7%"},
-      { "level": 2, "upgrade_details": "<strong>[Status]</strong> Vel +3, DEF +3<br><strong>[Proteção]</strong> DEF +48, Potência -38.3%"},
-      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +3<br><strong>[Proteção]</strong> DEF +52, Potência -43%"},
-      { "level": 4, "upgrade_details": "<strong>[Status]</strong> Vel +4, DEF +3<br><strong>[Proteção]</strong> DEF +56, Potência -47.1%"},
-      { "level": 5, "upgrade_details": "<strong>[Status]</strong> Salto +2, DEF +4<br><strong>[Proteção]</strong> DEF +60, Potência -50.6%"}
+      { "level": 1, "upgrade_details": "<strong>[Status]</strong> ATQ +2, Vel +3<br><strong>[Baluarte]</strong>Duração: 10sec, DEF +35, Alcance de Defesa +30%, Tempo de Espera: 15sec<br><strong>[Golpear]</strong>Duração da Habilidade: 7sec, ATQ +26"},
+      { "level": 2, "upgrade_details": "<strong>[Status]</strong> DEF +3, Vel +3<br><strong>[Baluarte]</strong>Duração: 10sec, DEF +35, Alcance de Defesa +30%, Tempo de Espera: 15sec<br><strong>[Golpear]</strong>Duração da Habilidade: 10sec, ATQ +29"},
+      { "level": 3, "upgrade_details": "<strong>[Status]</strong> ATQ +3, Salto +3<br><strong>[Baluarte]</strong>Duração: 10sec, DEF +40, Alcance de Defesa +30%, Tempo de Espera: 13sec<br><strong>[Golpear]</strong>Duração da Habilidade: 15sec, ATQ +35"},
+      { "level": 4, "upgrade_details": "<strong>[Status]</strong> DEF +4, Vel +3<br><strong>[Baluarte]</strong>Duração: 10sec, DEF +40, Alcance de Defesa +30%, Tempo de Espera: 13sec<br><strong>[Golpear]</strong>Duração da Habilidade: 18sec, ATQ +38"},
+      { "level": 5, "upgrade_details": "<strong>[Status]</strong> DEF +4, Salto +2<br><strong>[Baluarte]</strong>Duração: 10sec, DEF +50, Alcance de Defesa +40%, Tempo de Espera: 11sec<br><strong>[Golpear]</strong>Duração da Habilidade: 22sec, ATQ +42"}
     ]
   },
   {
