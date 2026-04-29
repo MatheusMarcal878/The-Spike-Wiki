@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- * Metadados essenciais do documento -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- * Título da aplicação -->
+    <title>The Spike Cross - Wiki Database</title>
+    <!-- * Link para o arquivo de estilos CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- * Cabeçalho principal da aplicação -->
+    <header>
+        <!-- * Título principal com destaque para "DATABASE" -->
+        <h1>THE SPIKE CROSS <span>DATABASE</span></h1>
+        
+        <!-- * Barra de ferramentas com busca e filtros -->
+        <div class="toolbar">
+            <!-- * Caixa de busca por nome de jogador -->
+            <div class="search-box">
+                <input type="text" id="searchBar" placeholder="Pesquise o nome do jogador..." onkeyup="filterPlayers()">
+            </div>
+            
+            <!-- * Seção de filtros por posição e rank -->
+            <div class="filters-box">
+                <!-- * Filtro por posição do jogador -->
+                <select id="filterPosition" onchange="filterPlayers()">
+                    <option value="ALL">Todas as Posições</option>
+                    <option value="MB">MB (Middle Blocker)</option>
+                    <option value="SE">SE (Setter)</option>
+                    <option value="WS">WS (Wing Spiker)</option>
+                </select>
+
+                <!-- * Filtro por rank/classificação do jogador -->
+                <select id="filterRank" onchange="filterPlayers()">
+                    <option value="ALL">Todos os Ranks</option>
+                    <option value="S-">S-</option>
+                    <option value="S">S</option>
+                    <option value="S+">S+</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <!-- * Container principal onde os cards dos jogadores serão renderizados dinamicamente -->
+    <main id="playerGrid" class="player-grid"></main>
+
+    <!-- * Modal overlay para exibir detalhes completos do jogador -->
+    <div id="detailsModal" class="details-overlay" onclick="closeDetailsModal(event)">
+        <div class="details-content">
+            <!-- * Botão para fechar o manualmente o modal -->
+            <button class="close-modal-btn" onclick="forceCloseDetailsModal()">×</button>
+            <!-- * Container onde o conteúdo dinâmico do modal será inserido -->
+            <div id="detailsBody"></div>
+        </div>
+    </div>
+
+    <!-- * Modal overlay para ampliação da imagem de status -->
+    <div id="statusModal" class="status-modal-overlay" onclick="closeStatusModal(event)">
+        <!-- * Elemento de imagem que será exibido no modal de status -->
+        <img id="statusImgExpanded" class="status-modal-content">
+    </div>
+
+    <!-- * Rodapé da aplicação com informações de direitos autorais -->
+    <footer>
+        <p>&copy; 2026 The Spike Cross Wiki - Todos os direitos reservados.</p>
+        <p>Proibida a reprodução total ou parcial do conteúdo e das artes.</p>
+    </footer>
+
+    <!-- * Importação do arquivo JavaScript principal -->
+    <script src="script.js"></script>
+
+    <!-- * Script de segurança para proteção do conteúdo -->
+    <script>
+        // ! Bloqueia o clique direito para proteger o conteúdo
+        document.addEventListener('contextmenu', event => event.preventDefault());
+        
+        // ! Bloqueia atalhos de inspeção do navegador (F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U)
+        document.onkeydown = function(e) {
+            if(e.keyCode == 123) { return false; } // F12
+            if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) { return false; } // Ctrl+Shift+I
+            if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) { return false; } // Ctrl+Shift+J
+            if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) { return false; } // Ctrl+U
+        }
+    </script>
+</body>
+</html>
